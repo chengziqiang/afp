@@ -1,0 +1,15 @@
+--- /home/chengziqiang/anaconda3/lib/python3.6/site-packages/torch/nn/modules/activation.py
++++ /home/chengziqiang/anaconda3/lib/python3.6/site-packages/torch/nn/modules/activation.py
+@@ -32,10 +32,11 @@
+         super(ReLU, self).__init__()
+         self.inplace = inplace
+ 
++    @weak_script_method
+     def forward(self, input):
+         return F.relu(input, inplace=self.inplace)
+ 
+     def extra_repr(self):
+-        inplace_str = 'inplace=True' if self.inplace else ''
++        inplace_str = 'inplace' if self.inplace else ''
+         return inplace_str
+ 

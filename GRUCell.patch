@@ -1,0 +1,10 @@
+--- /home/chengziqiang/anaconda3/lib/python3.6/site-packages/torch/nn/modules/rnn.py
++++ /home/chengziqiang/anaconda3/lib/python3.6/site-packages/torch/nn/modules/rnn.py
+@@ -63,6 +63,7 @@
+     def __init__(self, input_size, hidden_size, bias=True):
+         super(GRUCell, self).__init__(input_size, hidden_size, bias, num_chunks=3)
+ 
++    @weak_script_method
+     def forward(self, input, hx=None):
+         # type: (Tensor, Optional[Tensor]) -> Tensor
+         self.check_forward_input(input)

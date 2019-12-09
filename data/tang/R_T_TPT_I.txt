@@ -1,0 +1,1572 @@
+Chemical name 	CAS RN	SMILES	End Points (pIGCC50,ug/L )	Species	Reference
+2,4-Dichloro-6-nitroaniline	2683434	C1=C(C=C(C(=C1Cl)N)[N+](=O)[O-])Cl	1.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dibromo-6-nitroaniline	827236	C1=C(C=C(C(=C1Br)N)[N+](=O)[O-])Br	1.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-Chloro-2,4-dinitroaniline	3531199	C1=C(C=C(C(=C1[N+](=O)[O-])N)Cl)[N+](=O)[O-]	1.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromo-4,6-dinitroaniline	1817738	C1=C(C=C(C(=C1[N+](=O)[O-])N)Br)[N+](=O)[O-]	1.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-2,6-dinitroaniline	5388625	[N+]([O-])(=O)c1c(N)c([N+](=O)[O-])cc(c1)Cl	1.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Fluoro-3-iodo-5-nitrobenzene	3819883	C1=C(C=C(C=C1F)I)[N+](=O)[O-]	1.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dichloronitrobenzene	618622	C1=C(C=C(C=C1Cl)Cl)[N+](=O)[O-]	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4,5-Dichloro-2-nitroaniline	6641641	C1=C(C(=CC(=C1Cl)Cl)[N+](=O)[O-])N	1.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4,5-Difluoro-2-nitroaniline	78056390	C1=C(C(=CC(=C1F)F)[N+](=O)[O-])N	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-dinitro-5-fluoroaniline	367817	[N+]([O-])(=O)c1cc([N+](=O)[O-])c(N)cc1F	1.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,5-Dichloro-2,3-dinitrobenzene	28689089	C1=C(C=C(C(=C1Cl)[N+](=O)[O-])[N+](=O)[O-])Cl	2.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloro-4-nitroaniline	121879	C1=CC(=C(C=C1[N+](=O)[O-])Cl)N	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3,5-Trichloro-2-nitrobenzene	18708708	C1=C(C=C(C(=C1Cl)[N+](=O)[O-])Cl)Cl	1.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloro-5-nitroaniline	6283256	[N+](c1cc(N)c(cc1)Cl)(=O)[O-]	0.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,4-Trichloro-5-nitrobenzene	89690	C1=C(C(=CC(=C1Cl)Cl)Cl)[N+](=O)[O-]	1.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2.5-Dichloronitrobenzene	89612	C1=CC(=C(C=C1Cl)[N+](=O)[O-])Cl	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Dibromonitrobenzene	3460182	C1=CC(=C(C=C1Br)[N+](=O)[O-])Br	1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Difluoronitrobenzene	364749	C1=CC(=C(C=C1F)[N+](=O)[O-])F	0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dinitroaniline	97029	C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])N	0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-dichloro-4,6-dinitrobenzene	3698837	Clc1c([N+](=O)[O-])cc([N+](=O)[O-])c(Cl)c1	2.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,5-Difluoro-2,4-dinitrobenzene	327924	C1=C(C(=CC(=C1[N+](=O)[O-])F)F)[N+](=O)[O-]	2.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-Dinitroaniline	606224	C1=CC(=C(C(=C1)[N+](=O)[O-])N)[N+](=O)[O-]	0.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-dinitroaniline	618871	[N+]([O-])(=O)c1cc([N+](=O)[O-])cc(c1)N	0.94	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dichloronitrobenzene	611063	C1=CC(=C(C=C1Cl)Cl)[N+](=O)[O-]	0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3,5-Trichloro-2,4-dinitrobenzene hemihydrate	6284839	C1=C(C(=C(C(=C1Cl)[N+](=O)[O-])Cl)[N+](=O)[O-])Cl	2.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Dichloro-4,5-dinitrobenzene	6306394	C1=C(C(=CC(=C1Cl)Cl)[N+](=O)[O-])[N+](=O)[O-]	2.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitroaniline	88744	C1=CC=C(C(=C1)N)[N+](=O)[O-]	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Chloro-3-nitrobenzene	121733	C1=CC(=CC(=C1)Cl)[N+](=O)[O-]	0.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-fluoro-3-nitrobenzene	402675	[N+](c1cc(F)ccc1)(=O)[O-]	0.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Bromo-3-nitrobenzene	585795	C1=CC(=CC(=C1)Br)[N+](=O)[O-]	1.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-bromo-2-fluoro-6-nitrophenol	320763	[N+](=O)([O-])c1c(O)c(F)cc(c1)Br	1.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Chloro-6-nitrophenol b	609892	C1=C(C=C(C(=C1Cl)O)[N+](=O)[O-])Cl	1.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Chloro-4-nitrobenzene	100005	C1=CC(=CC=C1[N+](=O)[O-])Cl	0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,3-trichloro-5-nitrobenzene	20098480	[N+](c1cc(Cl)c(c(c1)Cl)Cl)(=O)[O-]	1.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Fluoro-4-nitrobenzene	350469	C1=CC(=CC=C1[N+](=O)[O-])F	0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,5,6-Tetrachloronitrobenzenea	117180	C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl	1.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-bromo-4-nitrobenzene	586787	[N+](c1ccc(cc1)Br)(=O)[O-]	0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,4,6-Tetrafluoronitrobenzene	314410	C1=C(C(=C(C(=C1F)F)F)[N+](=O)[O-])F	1.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,4,5-Tetrachloronitrobenzene	879390	C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)[N+](=O)[O-]	1.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-Dichloronitrobenzene	99547	C1=CC(=C(C=C1[N+](=O)[O-])Cl)Cl	1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chloro-4-fluoronitrobenzene	350301	C1=CC(=C(C=C1[N+](=O)[O-])Cl)F	0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-bromo-2-fluoro-6-nitroanisole	74266663	O(C)c1c([N+](=O)[O-])cc(cc1F)Br	0.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-amino-6-chloro-4-nitrophenol	6358094	[N+](c1cc(N)c(c(c1)Cl)O)([O-])=O	1.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dichloro-6-bromoaniline	697-86-9	Nc1c(Br)cc(cc1Cl)Cl	1.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-2,6-dibromoaniline	874179	Nc1c(Br)cc(cc1Br)Cl	1.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-Dinitro-2,4,5-trichlorobenzene	2678219	C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)[N+](=O)[O-]	2.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-2-nitrotoluene	89598	CC1=C(C=C(C=C1)Cl)[N+](=O)[O-]	0.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-2-nitrophenol	89645	[N+](=O)([O-])c1c(O)ccc(c1)Cl	2.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dinitro-1-iodobenzene	709499	C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])I	2.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Fluoro-2-nitrobenzene	1493272	C1=CC=C(C(=C1)[N+](=O)[O-])F	0.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Chloro-2-nitrobenzene	88733	C1=CC=C(C(=C1)[N+](=O)[O-])Cl	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Nitroaniline	99092	C1=CC(=CC(=C1)[N+](=O)[O-])N	0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-Iodo-4-nitrophenol b	305851	C1=C(C=C(C(=C1I)O)I)[N+](=O)[O-]	1.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-Dinitrotetrachlorobenzene	20098388	C1(=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl)[N+](=O)[O-]	2.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl-2-nitroaniline	89623	CC1=CC(=C(C=C1)N)[N+](=O)[O-]	0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-bromo-4-nitrophenol	99285	[N+](c1cc(Br)c(c(c1)Br)O)(=O)[O-]	1.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Bromo-2-nitrobenzene	577195	C1=CC=C(C(=C1)[N+](=O)[O-])Br	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Chloro-2,4-dinitrobenzene	97007	C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl	2.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Bromo-2,4-dinitrobenzene	584485	C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Br	2.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dinitro-1-fluorobenzene	70348	C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])F	1.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dichloro-4-nitrophenol	618804	[N+]([O-])(=O)c1cc(Cl)c(O)c(c1)Cl	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-amino-3,5-dinitrobenzamide	54321798	[N+]([O-])(=O)c1c(N)c([N+](=O)[O-])cc(c1)C(N)=O	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-fluoro-2-nitrophenol	446366	[N+](c1c(cc(cc1)F)O)(=O)[O-]	1.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4,6-DINITROPYROGALLOL	3264719	[N+](=O)([O-])C1=C(O)C(O)=C(C(=C1)[N+](=O)[O-])O	1.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dichloroaniline	554007	C1=CC(=C(C=C1Cl)Cl)N	0.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-Dinitrobenzene	99650	C1=CC(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-]	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentafluoronitrobenzene	880784	C1(=C(C(=C(C(=C1F)F)F)F)F)[N+](=O)[O-]	2.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,3-Trifluoro-4-nitrobenzene	771697	C1=CC(=C(C(=C1[N+](=O)[O-])F)F)F	1.89	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,3-Trichloro-4-nitrobenzene	17700093	C1=CC(=C(C(=C1[N+](=O)[O-])Cl)Cl)Cl	1.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-Dichloronitrobenzene	3209221	C1=CC(=C(C(=C1)Cl)Cl)[N+](=O)[O-]	1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-Dinitrobenzene	100254	C1=CC(=CC=C1[N+](=O)[O-])[N+](=O)[O-]	1.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+COC(=O)C1=C(C=C(C=C1)Cl)[N+](=O)[O-]	42087809	COC(=O)C1=C(C=C(C=C1)Cl)[N+](=O)[O-]	0.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-chloro-2-nitrobenzamide	40763960	c1(cc(ccc1[N+](=O)[O-])Cl)C(=O)N	-0.32	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-3,5-dinitrobenzonitrile	1930729	C1=C(C=C(C(=C1[N+](=O)[O-])Cl)[N+](=O)[O-])C#N	2.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-3-nitrophenol	610786	C1=CC(=C(C=C1O)[N+](=O)[O-])Cl	1.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-chloro-2,4-dinitrotoluene	51676745	c1c(C)c(cc(c1Cl)[N+](=O)[O-])[N+](=O)[O-]	2.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Dichloroaniline	95829	C1=CC(=C(C=C1Cl)N)Cl	0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-dinitrobenzonitrile	4110354	[N+](c1cc([N+]([O-])=O)cc(C#N)c1)([O-])=O	1.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-dichloro-6-nitroaniline	2683-43-4	N(=O)(=O)c1c(N)c(Cl)cc(c1)Cl	1.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromo-5-nitrotoluene	7149704	CC1=C(C=CC(=C1)[N+](=O)[O-])Br	1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-3-nitrobenzaldehyde	16588344	[N+](c1c(ccc(c1)C=O)Cl)(=O)[O-]	1.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-3-nitrobenzotrifluoride	121175	[N+](c1cc(C(F)(F)F)ccc1Cl)(=O)[O-]	0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dibromoaniline	608300	c1(c(Br)cccc1Br)N	0.9	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Undecanonitrile	2244077	C(CCCCCC)CCCC#N	1.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Lauronitrile	2437254	C(CCCCCC#N)CCCCC	1.9	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Octyl cyanide	2243278	C(CCCCC)CCC#N	0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentanonitrile	110598	C(CCC)C#N	-1.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(8CI9CI)	124129	C(CCCC#N)CCC	0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+WLN: NC5	628739	C(CCCCC)#N	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(8CI9CI)	629083	CCCCCCC#N	-0.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C(CCCC#N)#N	544138	C(CCCC#N)#N	-1.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butanenitrile (9CI)	109740	C(CCC)#N	-1.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Nitrile adipico(ITALIAN)	111693	C(CCCC#N)C#N	-1.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propannitril (Czech)	107120	C(C)C#N	-1.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(Czech)	110612	C(CC#N)C#N	-1.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Valeronitrile, 4-methyl-	542541	C(CCC(C)C)#N	-0.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methylbutane secondary monomitrile	625285	C(CC#N)(C)C	-0.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+.delta.-Chlorovaleronitrile	6280871	ClCCCCC#N	-0.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+7-Chloroheptanonitrile	22819916	N#CCCCCCCCl	0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentanenitrile,5-bromo- (9CI)	5414211	N#CCCCCBr	-0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-Cyanohexyl bromide	20965279	N#CCCCCCCBr	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+[AKA	75058	C(C)#N	-2.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(E)-3-Pentenenitrile	16529-66-1	C(\CC#N)=C\C	-0.953	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Pentenenitrile,	16529661	C(CC=CC)#N	-0.95	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,	630182	C(C(C)(C)C)#N	-1.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-	628206	ClCCCC#N	-0.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-bromo-	5332069	C(CCCBr)#N	-0.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Butenenitrile	109751	C(CC=C)#N	-1.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isopropylkyanid	78820	C(C(C)C)#N	-1.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methacrylonitrile	126-98-7	C(C#N)(C)=C	-1.653	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N(CC(CO)O)C	40137222	N(CC(CO)O)C	-1.534	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-(Methylamino)-1,2-propanediol	40137-22-2	C([C@@H](CO)O)NC	-1.5341	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Propanediol, 3-amino-	616308	OCC(O)CN	-1.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C(CN)(CN)O	616295	C(CN)(CN)O	-1.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+free	534032	OCC(N)CO	-1.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+L-t-Leucinol	1.12E+08	C(N)(C(C)(C)C)CO	-0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Amino-3,3-dimethyl-1-butanol	112245-13-3	C([C@@H](CO)N)(C)(C)C	-0.718	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Propyn-1-amine, N-methyl-(9CI)	35161718	C(CNC)#C	-0.98	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-phenyltoluene	644086	c1(c2ccccc2)ccc(cc1)C	1.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Toluene	108883	CC1=CC=CC=C1	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-xylene	106423	CC1=CC=C(C=C1)C	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Ethylbiphenyl	5707448	CCc1ccc(c2ccccc2)cc1	1.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Biphenylmethanol	3597919	C1=CC=C(C=C1)C2=CC=C(C=C2)CO	0.92	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Biphenylnitrile	2920-38-9	C(#N)c1ccc(cc1)c1ccccc1	1.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Biphenylcarboxaldehyde	3218368	C1=CC=C(C=C1)C2=CC=C(C=C2)C=O	1.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Biphenyl	92524	C1=CC=C(C=C1)C2=CC=CC=C2	1.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenylacetylene	536-74-3	C(#C)c1ccccc1	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,4-trimethylbenzene	95636	c1(c(ccc(c1)C)C)C	0.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrobiphenyl	2113-58-8	N(=O)(=O)c1cc(ccc1)c1ccccc1	1.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrobiphenyl	86-00-0	N(=O)(=O)c1c(cccc1)c1ccccc1	1.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isopropylbenzene	98828	CC(C)C1=CC=CC=C1	0.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-methyl-	620235	C(=O)C1=CC(C)=CC=C1	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Phenyl-1-propanol	1123859	CC(CO)C1=CC=CC=C1	-0.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CC1=CC(=CC=C1)O	108394	CC1=CC(=CC=C1)O	-0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+b-Methylphenethylamine	582229	CC(CN)C1=CC=CC=C1	-0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Methylbenzyl	587031	CC1=CC(=CC=C1)CO	-0.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Phenylpropylamine	582-22-9	C([C@H](C)c1ccccc1)N	-0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-tolunitrile	620-22-4	C(#N)c1cc(C)ccc1	-0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl benzylamine	104847	CC1=CC=C(C=C1)CN	-0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methylbenzyl alcohol	589184	CC1=CC=C(C=C1)CO	-0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-cyanonaphthalene	86-53-3	C(#N)c1c2c(ccc1)cccc2	0.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methylester kyseliny mravenci (Czech)	107313	C(=O)OC	-1.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Diethylene disulfide	505293	C1CSCCS1	-0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(E)-1,4-dibromo-2-butene	821-06-7	C(=C\CBr)\CBr	1.925	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butene,1,4-dibromo-, trans-	821067	C(C=CCBr)Br	1.92	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,	533733	C1(C(=CC(=CC=1)O)O)O	0.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-Dihydroxybenzene	108463	C1=CC(=CC(=C1)O)O	-0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+OC1=CC(O)=CC(O)=C1	108736	OC1=CC(O)=CC(O)=C1	-1.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-Diidrobenzene	123319	C1(C=CC(=CC=1)O)O	0.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Katechol	120809	C1(C(=CC=CC=1)O)O	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenol	108952	C1=CC=C(C=C1)O	-0.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pyrogallol	87661	OC1=C(O)C(O)=CC=C1	0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Phenylphenol	92-69-3	Oc1ccc(cc1)c1ccccc1	1.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chlororesorcinol	95885	C1=CC(=C(C=C1O)O)Cl	0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Phenylphenol	580-51-8	Oc1cc(ccc1)c1ccccc1	1.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+p-Cresol	106445	CC1=CC=C(C=C1)O	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-aminophenol	123-30-8	Nc1ccc(cc1)O	-0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+orcinol	6153395	c1c(cc(cc1O)C)O	-0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Benzoylphenol	1137424	C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)O	1.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,2',4,4'-Tetrahydroxybenzophenone	131555	C1=CC(=C(C=C1O)O)C(=O)C2=C(C=C(C=C2)O)O	0.96	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hydroquinone,	95716	C1(C(=CC(=CC=1)O)C)O	1.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-Dimethylphenol	95658	CC1=C(C=C(C=C1)O)C	0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrosophenol	104916	N(=O)c1ccc(cc1)O	0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hydroquinone,	615678	C1(Cl)=C(O)C=CC(=C1)O	1.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-chloro-4-fluorophenol	2613-23-2	Clc1c(F)ccc(c1)O	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-dichlorophenol	95-77-2	Clc1c(Cl)ccc(c1)O	1.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-Benzenediol,	583697	C1(=CC=C(C(=C1)Br)O)O	1.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dihydroxyacetophenone	89849	CC(=O)C1=C(C=C(C=C1)O)O	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Isopropylphenol	99898	CC(C)C1=CC=C(C=C1)O	0.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-aminophenol	591-27-5	Nc1cc(O)ccc1	-0.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	608435	C1(C)=C(C)C(O)=CC=C1O	1.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hexylresorcinol	136776	CCCCCCC1=C(C=C(C=C1)O)O	1.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-3-methylphenol	35421-08-0	C(Cl)c1ccc(cc1)O	0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+a,a,a-Trifluoro-4-cresol	402459	C1=CC(=CC=C1C(F)(F)F)O	0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hydroxydiphenylamine	101-18-8	N(c1cc(O)ccc1)c1ccccc1	1.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Sec-butylphenol	99-71-8	C([C@H](C)c1ccc(cc1)O)C	0.98	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Thiaindene	95158	C1(C=CS2)=C2C=CC=C1	0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-nitroquinoline	607-34-1	N(=O)(=O)c1c2c(ccc1)nccc2	0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N,n-Dimethylpropargylamine	7223383	C#CCN(C)C	-1.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acetaldehyde	107299	C(C)=NO	-1.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acetaldehyde oxime	107-29-9	C(=N\O)\C	-1.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+.beta.-Isonitrosopropane	127060	CC(C)=NO	-1.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	96297	C(=NO)(C)CC	-1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl methyl ketone oxime	96-29-7	C(\CC)(=N/O)C	-1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Heptanone oxime	5314-31-8	C(\CCCCC)(=N/O)C	0.103	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-HEPTANONE OXIME	5314318	C(CCCCC)(=NO)C	0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acrolein	107-02-8	C(C=O)=C	1.873	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+L6YTJ	100641	N(O)=C1CCCCC1	-0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-methyl-2-pentenal	5362-56-1	C(\C(C)C)=C\C=O	0.819	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dimethyl-1-hexyn-3-ol	107-54-0	C([C@](C#C)(C)O)C(C)C	-0.553	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Pentyn-3-ol, 3-methyl-	77758	OC(C)(C#C)CC	-1.32	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Methyl-1-pentyn-3-ol	77-75-8	C([C@](C#C)(C)O)C	-1.323	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dimethyl-1-hexyn-3-ol	107540	C#CC(C)(O)CCCC	-0.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Butyn-2-amine,	2978587	C#CC(N)(C)C	-0.91	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Butyn-2-ol,	115195	CC(C#C)(O)C	-1.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Methyl-1-hexyn-3-ol	61996-79-0	C([C@H](C#C)O)C(C)C	0.617	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl-2-heptyn-4-ol	4-Methyl-2-heptyn-4-ol	C(C)#C[C@](C)(O)CCC	-0.482	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethynyl isobutyl carbinol	61996790	C#CC(O)CC(C)C	0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-methyl-2-heptyn-4-ol	4376163	OC(CCC)(C)C#CC	-0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,7-Dimethyl-3-octanol	78-69-3	C([C@@](CC)(C)O)CCC(C)C	0.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Octanol,	78693	C(C(CC)(C)O)CCC(C)C	0.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butanol,	75854	CC(CC)(O)C	-1.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+TERT-PENTYLAMINE	594398	NC(CC)(C)C	-0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hexyne-2,5-diol,	142303	C(#CC(C)(C)O)C(C)(C)O	-1.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-ETHYL-2,2-DIMETHYL-3-PENTANOL	66793962	C(C(C)(C)C)(CC)(CC)O	-0.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-ethoxy-2-nitroaniline	616-86-4	N(=O)(=O)c1cc(OCC)ccc1N	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrophenetole	100-29-8	N(=O)(=O)c1ccc(cc1)OCC	0.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitroaniline	88-74-4	N(=O)(=O)c1c(N)cccc1	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-dinitroaniline	97-02-9	N(=O)(=O)c1cc(N(=O)=O)ccc1N	0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Butoxyaniline	4344552	CCCCOC1=CC=C(C=C1)N	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-methyl-2-nitroaniline	89-62-3	N(=O)(=O)c1c(N)ccc(c1)C	0.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hexyloxyaniline	39905572	CCCCCCOC1=CC=C(C=C1)N	1.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Pentyloxyaniline	39905505	CCCCCOC1=CC=C(C=C1)N	0.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(Ethylthio)benzene	622388	C(SC1=CC=CC=C1)C	0.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+103731	103731	CCOC1=CC=CC=C1	-0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-4-ethoxybenzoate	23676086	C(c1ccc(cc1)OCC)(=O)OC	0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitroanisole	555-03-3	N(=O)(=O)c1cc(OC)ccc1	0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,p-ethoxy-	10031820	C1=C(C=CC(=C1)C=O)OCC	0.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-n-butoxynitrobenzene	7244-78-2	O(CCCC)c1ccc(cc1)N(=O)=O	1.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Ethoxy-2-nitroaniline	616864	CCOC1=CC(=C(C=C1)N)[N+](=O)[O-]	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitroanisole	100-17-4	N(=O)(=O)c1ccc(cc1)OC	0.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dinitroaniline	606-22-4	N(=O)(=O)c1c(N)c(N(=O)=O)ccc1	0.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4,5-dichloro-2-nitroaniline	6641-64-1	N(=O)(=O)c1c(N)cc(c(c1)Cl)Cl	1.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methoxyaniline	90040	COC1=CC=CC=C1N	-0.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Ethoxyphenol	622628	CCOC1=CC=C(C=C1)O	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-amino-2-nitrophenol	119-34-6	N(=O)(=O)c1c(O)ccc(c1)N	0.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitroaniline	99-09-2	N(=O)(=O)c1cc(N)ccc1	0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Anisaldehyde	591311	COC1=CC=CC(=C1)C=O	0.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenyl n-propyl sulfide	874793	CCCSC1=CC=CC=C1	0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-dinitroaniline	618-87-1	N(=O)(=O)c1cc(N(=O)=O)cc(c1)N	0.94	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl 2-aminobenzoate	87-25-2	C(OCC)(=O)c1c(N)cccc1	0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl	2065238	c1(ccccc1)OCC(OC)=O	-0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+anisaldehyde,p-[Methoxybenzaldehyde]	123115	O=CC1=CC=C(OC)C=C1	-0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+phenoxyacetamide	621885	O(CC(N)=O)c1ccccc1	-0.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde, 4-butoxy-	5736889	C1=C(C=CC(=C1)C=O)OCCCC	0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-ethoxyphenol	94-71-3	O(CC)c1c(O)cccc1	-0.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methylanisole	104938	CC1=CC=C(C=C1)OC	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(Pentyloxy)benzaldehyde	5736914	CCCCCOC1=CC=C(C=C1)C=O	1.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+propargyl	5651887	C1=CC=CC=C1SCC#C	0.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Propyloxyphenol	18979-50-5	O(CCC)c1ccc(cc1)O	0.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,2,-dimethoxy-(8CI9CI)	613456	C(C1=C(C=C(C=C1)OC)OC)(=O)	-0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+phenyl	622468	C(Oc1ccccc1)(=O)N	-0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-methoxybenzonitrile	1527895	N#Cc1cc(OC)ccc1	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-Ethyl 2-bromobutyrate	533-68-6	C([C@@H](CC)Br)(OCC)=O	0.764	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+.alpha.-bromobutyrate	533686	CCC(Br)C(=O)OCC	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-Ethyl 2-bromovalerate	615-83-8	C([C@@H](CCC)Br)(OCC)=O	0.699	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentanoic acid, 2-bromo-, ethyl ester	615838	CCOC(=O)C(Br)CCC	0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-bromooctanoate	5445294	CCOC(C(Br)CCCCCC)=O	1.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexanoic acid, 2-bromo-, ethyl ester	615-96-3	C([C@H](CCCC)Br)(OCC)=O	0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexanoic acid, 2-bromo-, ethyl ester (8CI9CI)	615963	C(C(CCCC)Br)(OCC)=O	0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl 2-bromooctanoate	5445-29-4	C([C@H](CCCCCC)Br)(OCC)=O	1.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl 2-bromobutyrate	3196-15-4	C([C@H](CC)Br)(OC)=O	1.024	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	3196154	C(C(CC)Br)(OC)=O	1.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-bromopropanoic acid ethyl ester	535-11-5	C(OCC)([C@@H](Br)C)=O	1.057	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Malonic acid, chloro-, diethyl ester	14064109	C(C(OCC)=O)(C(OCC)=O)Cl	0.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propanoic acid, 2-chloro-, ethyl ester (9CI)	535137	C(C(C)Cl)(=O)OCC	-0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propanoic acid, 2-bromo-, ethyl ester	535115	C(C(C)Br)(=O)OCC	1.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl 2-chloropropionate	535-13-7	C(OCC)([C@H](C)Cl)=O	-0.431	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl 2,3-dibromobutanoate	609110	C(C(C(Br)C)Br)(OCC)=O	1.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl 2,3-dibromobutyrate	609-11-0	C([C@@H]([C@@H](Br)C)Br)(OCC)=O	1.438	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propanoic acid, 3-chloro, ethyl ester (9CI)	623712	O=C(OCC)CCCl	-0.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	539742	O=C(OCC)CCBr	0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propanoic acid, 2,3-dibromo-, ethyl ester	3674133	C(C(C(=O)OCC)Br)Br	2.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-bromo-3-methylbutanoate	609121	O=C(OCC)C(Br)C(C)C	0.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl 2-bromo-3-methylbutyrate	609-12-1	C([C@@H](C(C)C)Br)(OCC)=O	0.021	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl 2,3-dibromopropionate	3674-13-3	C([C@@H](CBr)Br)(OCC)=O	2.208	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl.alpha.-bromo-.alpha.-	600000	CCOC(=O)C(C)(C)Br	0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl.gamma.-chlorobutyrate	3153364	ClCCCC(=O)OCC	-0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	2969815	C(CCC(=O)OCC)Br	-0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	80580	C(C(CC)Br)(=O)O	0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	105373	C(CC)(=O)OCC	-0.95	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	105533	C(CC(=O)OCC)(=O)OCC	-1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Diethylester kyseliny jantarove (Czech)	123251	O(C(CCC(OCC)=O)=O)CC	-0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+alpha-Bromobutyric acid	80-58-0	C([C@H](CC)Br)(=O)O	0.122	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-6-bromo hexanoate	25542625	O(CC)C(=O)CCCCCBr	0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentanoic acid, 5-bromo-, ethyl ester (9CI)	14660527	CCOC(=O)CCCCBr	0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-Dibromohexane	16230287	CCC(C(CC)Br)Br	1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-Dibromohexane	16230-28-7	C([C@H]([C@@H](CC)Br)Br)C	0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Butanol,4-bromo-,acetate (8CI9CI)	4753597	O(CCCCBr)C(C)=O	0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, 3-methyl-, ethyl ester (6CI,7CI,8CI)	108645	C(CC(C)C)(=O)OCC	-0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Acetoxy-5-chloropentane	20395282	C(COC(C)=O)CCCCl	-0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acid	15848223	O(CCCCCBr)C(=O)C	0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-2-hexynoate	16205-90-6	C(C(OCC)=O)#CCCC	0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-2-heptynoate	16930-95-3	C(C#CCCCC)(OCC)=O	1.106	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-2-octynoate	10519-20-7	C(C#CCCCCC)(OCC)=O	1.233	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+WLN: T C666 BO ISJ	262204	C12=C(C=CC=C2)SC3=C(C=CC=C3)O1	2.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+NSC 6953	108985	C1(C=CC=CC=1)S	1.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Phenoxybenzaldehyde	67367	C1=CC=C(C=C1)OC2=CC=C(C=C2)C=O	1.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+100685	100685	CSC1=CC=CC=C1	0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Anisole	100663	COC1=CC=CC=C1	-0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(PHENYLTHIOETHYLENE)	1822737	C1(=CC=CC=C1)SC=C	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4,5,6-Tetrabromo-2-cresol	576556	CC1=C(C(=C(C(=C1Br)Br)Br)Br)O	2.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Tetrabromocatechol	488-47-1	Brc1c(Br)c(Br)c(c(c1Br)O)O	0.98	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentafluorophenol b	771619	C1(=C(C(=C(C(=C1F)F)F)F)F)O	1.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O	87865	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O	2.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)O	608719	C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)O	2.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+tetrachloro-	1198556	C1(Cl)=C(Cl)C(Cl)=C(O)C(=C1Cl)O	1.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromo-6-chloro-2-cresol	7530270	CC1=CC(=CC(=C1O)Cl)Br	1.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-3,5-dimethylphenol	88040	CC1=CC(=CC(=C1Cl)C)O	1.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-bromo-3,5-dimethylphenol	7463-51-6	Brc1c(C)cc(cc1C)O	1.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+OC1=C(F)C(=C(C(=C1F)F)O)F	771631	OC1=C(F)C(=C(C(=C1F)F)O)F	1.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hydroquinone,	87876	C1(=C(C(=C(C(=C1O)Cl)Cl)O)Cl)Cl	2.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloro-4,5-dimethylphenol	1124045	CC1=CC(=C(C=C1C)Cl)O	0.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,4,5-Tetrachlorophenol	4901513	C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O	2.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloro-5-methylphenol	615747	CC1=CC(=C(C=C1)Cl)O	0.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	527184	OC1=C(C)C(C)=C(O)C(C)=C1C	1.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+pentafluoronitrobenzene	880-78-4	N(=O)(=O)c1c(F)c(F)c(c(c1F)F)F	2.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Adipic acid, dihydrazide (8CI)	1071938	NNC(CCCCC(NN)=O)=O	-1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butryic acid hydrazide	3538656	C(C(NN)=O)CC	-0.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+374	1068571	C(NN)(C)=O	-1.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+dimercaptan	1191624	C(S)CCCCCCCS	1.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+SCCCCCCS	1191431	SCCCCCCS	0.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Formhydrazid (German)	624840	C(NN)=O	-0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenylacetic acid hydrazide	937393	C1=CC=C(C=C1)CC(=O)NN	-0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+vinyl	15484807	O(C(=O)c1ccc(C(C)(C)C)cc1)C=C	1.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-4-hydroxybenzoate	120-47-8	C(OCC)(=O)c1ccc(cc1)O	0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+tert-Butylbenzene	98-06-6	C(C)(C)(C)c1ccccc1	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl-4-nitrobenzoate	99-77-4	C(OCC)(=O)c1ccc(cc1)N(=O)=O	0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-3-hydroxybenzoate	7781-98-8	C(OCC)(=O)c1cc(O)ccc1	0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-4-hydroxybenzoate	99-76-3	C(OC)(=O)c1ccc(cc1)O	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyl-4-hydroxybenzoate	94-26-8	C(OCCCC)(=O)c1ccc(cc1)O	1.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-4-iodobenzoate	51934419	C(c1ccc(I)cc1)(=O)OCC	1.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CCOC(=O)C1=CC=C(C=C1)Br	5798754	CCOC(=O)C1=CC=C(C=C1)Br	1.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-amylbenzoate	2049969	O(CCCCC)C(=O)c1ccccc1	1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-4-cyanobenzoate	7153222	N#Cc1ccc(C(=O)OCC)cc1	0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-4-formylbenzoate	1571080	C(OC)(=O)c1ccc(C=O)cc1	0.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzoyl isothiocyanate	532558	C1=CC=C(C=C1)C(=O)N=C=S	0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+nonyl-4-hydroxybenzoate	38713563	O(CCCCCCCCC)C(=O)c1ccc(O)cc1	2.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isoamyl-4-hydroxybenzoate	6521308	CC(C)CCOC(=O)C1=CC=C(C=C1)O	1.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl-4-methoxybenzoate	94304	CCOC(=O)C1=CC=C(C=C1)OC	0.77	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzyl-4-hydroxybenzoate	94-18-8	C(OCc1ccccc1)(=O)c1ccc(cc1)O	1.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-3,5-dihydroxybenzoate	2150449	C(OC)(=O)c1cc(O)cc(c1)O	-0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(Tert)butylbenzyl alcohol	877656	CC(C)(C)C1=CC=C(C=C1)CO	0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Ethylhexyl-4¡¯-hydroxybenzoate	5153-25-3	C(OC[C@H](CCCC)CC)(=O)c1ccc(cc1)O	2.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenyl benzoate	93992	c1ccccc1C(=O)Oc2ccccc2	1.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isothiocyanic acid, n-Propyl Ester	628308	C(N=C=S)CC	1.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isothiocyanic acid, butyl ester	592825	C(CN=C=S)CC	1.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-propylene diisothiocyanate	52714520	S=C=NCCCN=C=S	2.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Hex-1-yl isothiocyanate	4404459	C(N=C=S)CCCCC	1.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+isothiocyanate	629129	C(N=C=S)CCCC	1.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isothiocyanic acid, ethyl ester	542858	CCN=C=S	1.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,2-Dimethylpropyl isothiocyanate	597977	C(N=C=S)(C)(C)CC	0.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C=CCN=C=S	57067	C=CCN=C=S	2.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Phenylpropyl	2627272	c1ccccc1CCCN=C=S	2.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Methylaniline	100618	CNC1=CC=CC=C1	0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Ethylaniline	103695	CCNC1=CC=CC=C1	0.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N-Phenylacetamide	103-84-4	N(C(C)=O)c1ccccc1	0.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-phenylbiguanide	102023	N(C(NC(=N)N)=N)c1ccccc1	-0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-phenyl-2-thiourea	103855	c1ccccc1NC(N)=S	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Thioacetanilide	637536	CC(=S)NC1=CC=CC=C1	-0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl-4-methylaminobenzoate	18358639	CNC1=CC=C(C=C1)C(=O)OC	0.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methylaniline	95534	CC1=CC=CC=C1N	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+62533	62533	C1=CC=C(C=C1)N	-0.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Aminobenzyl alcohol	5344901	C1=CC=C(C(=C1)CO)N	-1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Acetamidophenol	621421	CC(=O)NC1=CC(=CC=C1)O	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-hydroxy-4,5-dimethylacetophenone	147218-98-2	C(=N/NC(NC)=S)(\C)c1c(O)cc(c(c1)C)C	0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxy-4,5-dimethylacetophenone	36436654	CC1=C(C=C(C(=C1)C(=O)C)O)C	0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxy-5-methylacetophenone	1450-72-2	C(C)(=O)c1c(O)ccc(c1)C	0.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-2-methylacetophenone	875-59-2	C(C)(=O)c1c(C)cc(cc1)O	0.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl-3-cyanophenol	101349-82-0	C(#N)c1c(C)ccc(c1)O	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromophenyl	16532799	C1=CC(=CC=C1CC#N)Br	0.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chlorobenzyl	140534	C1=CC(=CC=C1CC#N)Cl	0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Bromo-4-ethylbenzene	1585075	CCC1=CC=C(C=C1)Br	0.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzyl cyanide	140294	C1=CC=C(C=C1)CC#N	-0.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-fluorobenzonitrile	1194-02-1	C(#N)c1ccc(cc1)F	-0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chlorobenzonitrile	623-03-0	C(#N)c1ccc(cc1)Cl	0	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-bromobenzonitrile	623-00-7	C(#N)c1ccc(cc1)Br	0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chlorobenzonitrile	873-32-5	C(#N)c1c(Cl)cccc1	0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-chlorobenzonitrile	766-84-7	C(#N)c1cc(Cl)ccc1	-0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrophenylacetonitrile	555-21-5	N(=O)(=O)c1ccc(cc1)CC#N	0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2(4-Chlorophenyl)ethylamine	156412	C1=CC(=CC=C1CCN)Cl	0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chlorophenethyl alcohol	1875883	C1=CC(=CC=C1CCO)Cl	0.32	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxybenzyl cyanide	14191958	C1=CC(=CC=C1CC#N)O	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Aminobenzyl cyanide	3544250	C1=CC(=CC=C1CC#N)N	-0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromotoluene	106387	CC1=CC=C(C=C1)Br	0.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chlorobenzophenone	134850	C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl	1.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromobenzophenone	90904	C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Br	1.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-3-nitrobenzonitrile	939800	c1cc(c(cc1C#N)[N+](=O)[O-])Cl	1.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chlorobenzophenone	1016780	C1=CC=C(C=C1)C(=O)C2=CC(=CC=C2)Cl	1.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Phenylpropionitrile	645590	C1=CC=C(C=C1)CCC#N	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-dicyanobenzene	91156	N#Cc1c(C#N)cccc1	-0.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Phenylbutyronitrile	2046186	C1=CC=C(C=C1)CCCC#N	0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-dicyano-tetrafluorobenzene	1835490	c1(c(c(c(C#N)c(c1F)F)F)F)C#N	2.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Amino-5-chlorobenzonitrile	5922601	C1=CC(=C(C=C1Cl)C#N)N	0.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Tolunitrile	529191	CC1=CC=CC=C1C#N	-0.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-Dichlorotoluene	95750	CC1=CC(=C(C=C1)Cl)Cl	1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+8-Chloro-1-octanol	5197-62-6	C(COCCO)OCCCl	0.4878	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-methoxy-	109853	COCCN	-1.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butoxyethanol (ACGIH:OSHA)	111762	C(CO)OCCCC	-1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chloro-2-fluoro-5-(trifluoromethyl)benzaldehyde	261763-02-4	C(F)(F)(F)c1cc(C=O)c(c(c1)Cl)F	1.723	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,5-Trichlorobenzaldehyde	56961-75-2	C(=O)c1c(Cl)c(Cl)cc(c1)Cl	1.499	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,m-chloro-(8CI)	587042	C(=O)C1=CC(Cl)=CC=C1	0.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+bromobenzaldehyde,	3132998	C1(=CC=CC(=C1)C=O)Br	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,	456484	C(C1=CC(=CC=C1)F)(=O)	0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chlorobenzaldehyde	104881	C1=CC(=CC=C1C=O)Cl	0.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde, p-fluoro- (8CI)	459574	O=CC1=CC=C(F)C=C1	-0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde, 4-bromo- (9CI)	1122914	C(=O)C1=CC=C(C=C1)Br	0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	2973775	O=CC1=CC(Br)=C(O)C(=C1)Br	0.89	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+chlorobenzaldehyde,	89985	C(C1C(=CC=CC=1)Cl)=O	0.487	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-bromo-	6630337	C1=CC=C(C(=C1)C=O)Br	0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentafluorobenzaldehyde	653372	C(=O)C1=C(C(=C(C(=C1F)F)F)F)F	0.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloro-5-nitrobenzaldehyde	6361-21-3	C(=O)c1cc(N(=O)=O)ccc1Cl	0.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,4,5-tetrachloronitrobenzene	879-39-0	N(=O)(=O)c1c(Cl)c(Cl)c(c(c1)Cl)Cl	1.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,2-fluoro-	446526	C(C1=C(C=CC=C1)F)(=O)	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	2973786	O=CC1=CC=C(C(Br)=C1)O	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-dinitro-2,4,5-trichlorobenzene	2678-21-9	N(=O)(=O)c1c(Cl)c(N(=O)=O)cc(c1Cl)Cl	2.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dichlorobenzaldehyde	874420	C1=CC(=C(C=C1Cl)Cl)C=O	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-dichloro-4,5-dinitrobenzene	6306-39-4	N(=O)(=O)c1c(N(=O)=O)cc(c(c1)Cl)Cl	2.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,4-trichloro-5-nitrobenzene	89-69-0	N(=O)(=O)c1c(Cl)cc(c(c1)Cl)Cl	1.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dibromosalicylaldehyde	90595	C1=C(C=C(C(=C1Br)O)C=O)Br	1.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dichlorosalicylaldehyde	90608	C1=C(C=C(C(=C1Cl)O)C=O)Cl	1.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-diiododalicyaldehyde	2631778	C(=O)c1c(O)c(I)cc(c1)I	2.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,3-trifluoro-4-nitrobenzene	771-69-7	N(=O)(=O)c1c(F)c(F)c(cc1)F	1.89	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,4,6-tetrafluoronitrobenzene	314-41-0	N(=O)(=O)c1c(F)c(F)c(cc1F)F	1.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2',3',4'-Trichloroacetophenone	13608872	CC(=O)C1=C(C(=C(C=C1)Cl)Cl)Cl	1.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-dichloro-1-nitrobenzene	3209-22-1	N(=O)(=O)c1c(Cl)c(Cl)ccc1	1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,3-trichloro-4-nitrobenzene	17700-09-3	N(=O)(=O)c1c(Cl)c(Cl)c(cc1)Cl	1.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloro-6-nitrobenzaldehyde	6361-22-4	C(=O)c1c(N(=O)=O)cccc1Cl	0.155	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-dinitrotetrachlorobenzene	20098-38-8	N(=O)(=O)c1c(Cl)c(Cl)c(c(c1Cl)Cl)N(=O)=O	2.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-dibromonitrobenzene	3460-18-2	N(=O)(=O)c1c(Br)ccc(c1)Br	1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-dichloro-1-nitrobenzene	89-61-2	N(=O)(=O)c1c(Cl)ccc(c1)Cl	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,5-dichloro-2,3-dinitrobenzene	28689-08-9	N(=O)(=O)c1c(N(=O)=O)cc(cc1Cl)Cl	2.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Naphthoquinone	524-42-5	O=C1c2c(C=CC1=O)cccc2	1.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans	614471	C(C=Cc1ccccc1)(=O)c1ccccc1	1.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(Trans)ethyl cinnamate	103366	CCOC(=O)C=CC1=CC=CC=C1	0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Propyl cinnamate	7778838	CCCOC(=O)C=CC1=CC=CC=C1	1.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Propenoyl isothicoyanate-3- phenyl-(9CI)	19495080	O=C(N=C=S)C=CC1=CC=CC=C1	0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Diphenyl-1,4-benzoquinone	844519	C1=CC=C(C=C1)C2=CC(=O)C(=CC2=O)C3=CC=CC=C3	1.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Butyl cinnamate	538658	CCCCOC(=O)C=CC1=CC=CC=C1	1.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenyl-1,4-benzoquinone	363-03-1	O=C1C(=CC(C=C1)=O)c1ccccc1	0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-hydroxyacetophenone	582-24-1	C(CO)(=O)c1ccccc1	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	3240093	C(CC(C)=C)C(C)=O	-0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Hexandione	110134	CC(CCC(C)=O)=O	-1.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	107879	CC(CCC)=O	-1.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Hexen-2-one	109-49-9	C(C(C)=O)CC=C	-1.141	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	78933	C(=O)(C)CC	-1.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butylacetone	110430	CC(CCCCC)=O	-0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl n-Decyl Ketone	6175491	CC(CCCCCCCCCC)=O	1.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+MGK dog and cat repellent	112129	CC(CCCCCCCCC)=O	1.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hexanone	591786	CC(CCCC)=O	-1.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+7V1	821556	CC(CCCCCCC)=O	0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+tridecanone,	593088	CC(CCCCCCCCCCC)=O	2.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Octyl methyl ketone	693549	CC(CCCCCCCC)=O	0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Oxooctane	111137	CC(CCCCCC)=O	-0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Hepten-2-one,6-methyl-	110930	CC(=CCCC(C)=O)C	-0.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-methyl-2-cyclopenten-1-one	2758-18-1	CC1=CC(CC1)=O	-1.323	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acetylaceetone	123546	CC(CC(C)=O)=O	-0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hexanone,	110123	CC(CCC(C)C)=O	-0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Dipropyl ketone (ACGIH)	123193	CCCC(CCC)=O	-0.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-hexen-3-one	1629-60-3	C(CCC)(C=C)=O	1.656	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-methyl-2-cyclopenten-1-one	1120-73-6	CC=1C(=O)CCC1	-0.826	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Octanedione	14090870	CC(=O)CC(=O)CCCC	0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+NCINSC#20699	6175231	C(C(=O)C)C(=O)CCCCC	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,1'-sulfinylbis-	4253912	C(S(CCC)=O)CC	-1.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-octen-3-one	4312-99-6	C(CCCCC)(C=C)=O	1.914	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-butylacrolein	1070-66-2	C(CCCC)(C=O)=C	1.069	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl-2-pentanon (Czech)	108101	CC(CC(C)C)=O	-1.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Butyl sulphoxide	2168936	CCCCS(=O)CCCC	-0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Nonanone (8CI9CI)	502567	CCCCC(CCCC)=O	0.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexyl kentone	462180	C(CCCCCC)(CCCCCC)=O	1.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Tetrahydroquinone	637887	C1CC(CCC1=O)=O	-1.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Decanone	928803	CCC(=O)CCCCCCC	0.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Cyclohexanone (8CI9CI)	108941	C1(CCCCC1)=O	-1.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,	504029	O=C(CCC1)CC1=O	-0.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-cyano-4,6-dimethyl-2-hydroxypyridine	769-28-8	C(#N)c1c(C)cc([nH]c1=O)C	-0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-hydroxypropyl acrylate	999-61-1	C(OC[C@H](C)O)(C=C)=O	0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl acrylate	140-88-5	C(OCC)(C=C)=O	0.516	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+isobutyl acrylate	106-63-8	C(OCC(C)C)(C=C)=O	0.291	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+propyl acrylate	925-60-0	C(OCCC)(C=C)=O	0.531	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+MOIPA	37143547	NC(COC)C	-0.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-methoxy-2-propanamine	37143-54-7	C([C@H](C)N)OC	-0.833	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+allyl acrylate	999-55-3	C(OCC=C)(C=C)=O	0.682	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+butyl acrylate	141-32-2	C(OCCCC)(C=C)=O	0.519	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-heptyl acrylate	2499-58-3	C(COC(C=C)=O)CCCCC	1.086	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-hexylacrylate	2499-95-8	C(OC(C=C)=O)CCCCC	0.741	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+allyl crotonate	20474-93-5	C(OCC=C)(\C=C\C)=O	-0.481	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+isoamyl acrylate	4245-35-6	C(OCCC(C)C)(C=C)=O	0.408	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-butanediol diacrylate	19485-03-1	C([C@@H](OC(C=C)=O)C)COC(C=C)=O	1.144	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-pentylacrylate	2998-23-4	C(OCCCCC)(C=C)=O	0.537	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+tert-butyl acrylate	1663-39-4	O(C(C)(C)C)C(C=C)=O	-0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl acrylate	96-33-3	C(C=C)(OC)=O	0.547	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+crotonic acid n-butyl ester	7299-91-4	O(C(\C=C\C)=O)CCCC	-0.159	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Malonic acid, acytamido-,diethyl ester	1068902	CC(=O)NC(C(=O)OCC)C(=O)OCC	-1.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Carboxyacetylene	471250	C(C#C)(=O)O	-0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+kyselina 2,2-dimethylpropionova	75989	C(C(C)(C)C)(=O)O	-0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Kyselina malonova (Czech)	141822	C(CC(=O)O)(=O)O	-0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Kyselina jantarova (Czech)	110156	C(CCC(=O)O)(=O)O	-0.94	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acide propionique (French)	79094	C(CC)(=O)O	-0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Kyselina siomaselna (Czech)	79312	C(C(C)C)(=O)O	-0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid	505486	C(CCCCCCC(=O)O)(=O)O	-0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pimelic acid (8CI)	111160	C(CCCCCC(=O)O)(=O)O	-0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentandioic acid	110941	C(CCCC(=O)O)(=O)O	-0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acide sebacique (French)	111206	C(CCCCCCCCC(=O)O)(=O)O	-0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,	124049	C(CCCCC(=O)O)(=O)O	-0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid	693232	C(CCCCCCCCCCC(=O)O)(=O)O	-0.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	4839467	OC(=O)CC(C)(C)CC(=O)O	-0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	2052019	C(C(C)(C)Br)(=O)O	-0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, 2-ethyl-	88095	C(C(CC)CC)(=O)O	-0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isovalerianic	503742	C(CC(C)C)(=O)O	-0.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+.beta.-Butenoic	625387	OC(=O)CC=C	-0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isohexanoic	646071	CC(CCC(O)=O)C	-0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+PENTANOIC acid, 3-methyl-	105431	OC(=O)CC(C)CC	-0.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propionic acid, 3-chloro-	107948	C(CCCl)(=O)O	-0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propionic acid, 3-bromo-	590921	C(CCBr)(=O)O	-0.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, 2-bromo-3-methyl-	565742	C(C(C(C)C)Br)(=O)O	-0.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromo-3-methylbutyric acid	565-74-2	C([C@H](C(=O)O)Br)(C)C	-0.549	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-3-Methylvaleric acid	105-43-1	C([C@H](CC)C)C(=O)O	-0.233	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butanoic acid, 4-chloro- (9CI)	627009	C(CCCCl)(=O)O	-0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, 4-bromo-	2623872	OC(=O)CCCBr	-0.77	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+gamma-Nonanolactone	104-61-0	C(CCCC)[C@H]1OC(CC1)=O	0.014	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+gamma-n-Decalactone	706149	C(CC1OC(=O)CC1)CCCC	0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	104507	CCCCC1CCC(O1)=O	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CCCCCC1CCCC(O1)=O	705862	CCCCCC1CCCC(O1)=O	-0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Prunolide	104610	C1CC(OC1=O)CCCCC	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+gamma-Octanoic lactone	104-50-7	C(CCC)[C@H]1OC(CC1)=O	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+gamma-Decalactone	706-14-9	C(CCCCC)[C@H]1OC(CC1)=O	0.493	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+delta-decalactone	705-86-2	C(CCCC)[C@H]1OC(=O)CCC1	-0.077	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Gamma-caprolactone	695-06-7	C(C)[C@H]1OC(CC1)=O	-1.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+gamma-Ethylbutyrolactone	695067	CCC1OC(=O)CC1	-1.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+gamma-Valerolactone	108-29-2	C[C@H]1OC(CC1)=O	-1.569	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+gamma-Valerolakton	108292	CC1OC(CC1)=O	-1.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl nonylate	1731846	CCCCCCCCC(=O)OC	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl n-undecanoate	1731868	O(C)C(=O)CCCCCCCCCC	1.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Valeric acid, methyl ester	624248	CCCCC(=O)OC	-0.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Octanoic acid, methyl ester (8CI9CI)	111115	CCCCCCCC(OC)=O	0.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Decanoic acid, methyl ester	110429	CCCCCCCCCC(OC)=O	1.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Heptanoic acid, methyl ester	106730	CCCCCCC(OC)=O	0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentanoic acid, ethyl ester (9CI)	539822	CCCCC(OCC)=O	-0.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl hexoate	123660	C(CCCCC)(=O)OCC	0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl hexoate	106707	CCCCCC(OC)=O	-0.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Amino-2,3-dimethylphenol	3096-69-3	C[C@@H]1CC(O1)=O	1.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Oxetanone, 4-methyl-	36536466	O=C1CC(C)O1	-0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	16090770	C(CCCCCCC(=O)OCCCC)(=O)OCCCC	1.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Polycizer W260	105997	O(C(CCCCC(OCCCC)=O)=O)CCCC	0.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	141060Valeric	C(C(OCCC)=O)CCC	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric ester	105544	C(CCC)(=O)OCC	-0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, methyl ester	623427	C(CCC)(=O)OC	-1.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+.delta.-carboethoxyvalerate	141286	C(CCCCC(OCC)=O)(OCC)=O	-0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+SUBERIC ACID DIMETHYL ESTER	2050239	O(C(CCCCCCC(OCC)=O)=O)CC	0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Sebacic acid, diethyl ester	110407	C(CCCCCCCC(OCC)=O)C(OCC)=O	1.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CCOC(=O)CCCCCC(=O)OCC	2050206	CCOC(=O)CCCCCC(=O)OCC	0.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+cyclohexylacrylate	3066-71-5	O(C(C=C)=O)C1CCCCC1	0.763	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, propyl ester	105668	C(CCC)(=O)OCCC	-0.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ENT 666	141037	C(C(OCCCC)=O)CC(OCCCC)=O	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, butyl ester	109217	C(CCC)(=O)OCCCC	0.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, vinyl ester	123206	C(CCC)(OC=C)=O	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	123682	CCCCCC(=O)OCC=C	0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Allylester kyseliny enanthove (Czech)	142198	C(CCCCCC)(OCC=C)=O	0.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Undecanaldehyde	112447	CCCCCCCCCCC=O	1.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentyl propanoate	624544	O(C(CC)=O)CCCCC	-0.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+technical	66251	C(CCCCC)=O	-0.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+sec-Butyl Acetate	105-46-4	O([C@H](CC)C)C(C)=O	-0.679	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Valeraldehyde (ACGIH)	110623	C(CCCC)=O	-0.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+NCINSC#55212	112549	C(CCCCCC)CCCCC=O	1.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+heptanal,	111717	C(CCCCCC)=O	0	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Decyl	112312	CCCCCCCCCC=O	1.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C(CCCCCCCC)=O	124196	C(CCCCCCCC)=O	0.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+WLN: VH7	124130	C(CCCCCCC)=O	0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+beta-Propyl-alpha-ethylacrolein	123057	C(C(CC)CCCC)=O	0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acetic acid, sec-butyl ester	105464	C(C)(=O)OC(CC)C	-0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+SUBERIC ACID DIMETHYL ESTER	1732098	O(C(CCCCCCC(OC)=O)=O)C	0.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Ethylhexyl Aldehyde	123-05-7	C([C@@H](CC)C=O)CCC	0.161	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Glutaric acid, dimethyl ester	1119400	COC(CCCC(OC)=O)=O	-1.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DIMETHYL TRIDECANEDIOATE	1472873	O(C(CCCCCCCCCCCC(OC)=O)=O)C	1.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	106796	C(CCCCCCCCC(OC)=O)(OC)=O	1.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	2051787Butyric	O=C(CCC)OCC=C	-0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl valeraldehyde	123-15-9	C([C@H](C=O)C)CC	-0.475	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentanal, 2-methyl-	123159	CCCC(C=O)C	-0.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexanoic acid, epsilon-lactone	502443	O1C(CCCCC1)=O	-1.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Diethyl 2,2-dimethyl-3-oxopimelate	40420-22-2	C(CCCC(OCC)=O)(CC(OCC)=O)=O	-0.378	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propionic acid, butyl ester	590012	C(CC)(=O)OCCCC	0.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C(CCC)=O	123728	C(CCC)=O	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isopropylacetaat(DUTCH)	108214	C(C)(=O)OC(C)C	-1.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+crotocic acid sec-butyl ester	10371-45-6	O(C(\C=C\C)=O)[C@H](CC)C	-0.417	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-Butanolide	96480	O=C1CCCO1	-1.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Vinyl propanoate	105384	C(OC=C)(CC)=O	-0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Cyklohexylmerkaptan	1569693	SC1CCCCC1	0	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-(Benzylthio)-3-nitropyridine	69212313	C1=CC=CC=C1CSC2=C([N+](=O)[O-])C=CC=N2	1.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitrotoluene	88722	CC1=CC=CC=C1[N+](=O)[O-]	0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-5-nitrophenol	5428546	CC1=C(C=C(C=C1)[N+](=O)[O-])O	0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Nitrobenzyl alcohol	619250	C1=CC(=CC(=C1)[N+](=O)[O-])CO	-0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-methyl-3-nitrophenol	5460311	[N+](c1c(c(O)ccc1)C)(=O)[O-]	0.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Nitrotoluene	99081	CC1=CC(=CC=C1)[N+](=O)[O-]	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Dimethyl-3-nitrobenzene	83410	CC1=C(C(=CC=C1)[N+](=O)[O-])C	0.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitrobenzaldehyde	552896	C1=CC=C(C(=C1)C=O)[N+](=O)[O-]	0.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Nitrotoluene	99990	CC1=CC=C(C=C1)[N+](=O)[O-]	0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Nitroanisole	555033	COC1=CC=CC(=C1)[N+](=O)[O-]	0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Nitrobenzaldehyde	99616	C1=CC(=CC(=C1)[N+](=O)[O-])C=O	0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-Dinitrobenzyl	79544313	OCC1=CC([N+](=O)[O-])=C([N+](=O)[O-])C=C1	1.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrobenzyl	612259	[N+](c1c(CO)cccc1)(=O)[O-]	-0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Dimethyl-4-nitrobenzene	99514	CC1=C(C=C(C=C1)[N+](=O)[O-])C	0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-dinitrotoluene	610399	[N+]([O-])(=O)c1c([N+](=O)[O-])cc(C)cc1	1.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Nitrobenzonitrile	619249	C1=CC(=CC(=C1)[N+](=O)[O-])C#N	0.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitrobenzamide	610151	C1=CC=C(C(=C1)C(=O)N)[N+](=O)[O-]	-0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl-4-nitrobenzoate	99774	CCOC(=O)C1=CC=C(C=C1)[N+](=O)[O-]	0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dinitrotoluene	121142	CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Nitrobenzene	98953	C1=CC=C(C=C1)[N+](=O)[O-]	0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Dinitrobenzene	528290	C1=CC=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-]	1.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrobenzonitrile	619727	[N+](c1ccc(C#N)cc1)(=O)[O-]	0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitroanisole	91236	COC1=CC=CC=C1[N+](=O)[O-]	-0.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloro-6-nitrotoluene	83421	CC1=C(C=CC=C1Cl)[N+](=O)[O-]	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitrobiphenyl	86000	C1=CC=C(C=C1)C2=CC=CC=C2[N+](=O)[O-]	1.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-CHLORO-6-NITROBENZALDEHYDE	6361224	C1=CC=C(C(=C1Cl)C=O)[N+](=O)[O-]	0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrobiphenyl	2113588	[N+](c1cc(c2ccccc2)ccc1)(=O)[O-]	1.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3,5-Trimethyl-2-nitrobenzene	603714	CC1=CC(=C(C(=C1)C)[N+](=O)[O-])C	0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-3-Hexen-1-ol	928-97-2	C(=C\CC)\CCO	-0.777	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-3-Hexen-1-ol	928972	CCC=CCCO	-0.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+cis-3-Hexen-1-ol	928-96-1	C(=C/CC)\CCO	-0.809	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+cis-2-Penten-1-ol	1576-95-0	C(=C/CO)\CC	-1.105	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Cis-2-pentenol	1576950	C(=CCO)CC	-1.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hexen-1-ol	928-92-7	C(\C=C\C)CCO	-0.754	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hexen-1-ol	928927	C(O)CCC=CC	-0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Propyl	71238	C(CC)O	-1.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+RCRA waste number U194	107108	C(CC)N	-0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Vinylethyl alcohol	627270	C=CCCO	-1.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+402145	107880	C(CC(C)O)O	-2.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(¡À)-1,3-Butanediol	107-88-0	C([C@H](C)O)CO	-2.3013	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+cis-2-Hexen-1-ol	928-94-9	C(\CCC)=C/CO	-0.777	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Hexen-1-ol	928-95-0	C(\CCC)=C\CO	-0.472	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Propanamine,	6291856	C(CCN)OCC	-1.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Undecen-1-ol, (2E)- (9CI)	75039848	CCCCCCCCC=CCO	1.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hepten-1-ol,	33467764	CCCCC=CCO	0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Dodecenol	22104810	C(O)C=CCCCCCCCCC	2.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Decen-1-ol	22104809	C(O)C=CCCCCCCC	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Propanol, 3-amino-	156876	NCCCO	-1.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-OCTEN-1-OL,	18409171	C(O)C=CCCCCC	0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Undecen-1-ol	75039-84-8	C(CC\C=C\CO)CCCCC	1.611	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Nonen-1-ol	31502-14-4	C(O)\C=C\CCCCCC	0.752	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Decen-1-ol	22104-80-9	C(CCCCC)C\C=C\CO	1.128	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Dodecen-1-ol	22104-81-0	C(CCCCCC)CC\C=C\CO	2.092	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(E)-2-octenol	18409-17-1	C(CCCC)\C=C\CO	0.365	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Hepten-1-ol	33467-76-4	C(\C=C\CO)CCC	0.045	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Leucamine	107857	C(CC(C)C)N	-0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Butanol,	123513	C(CC(C)C)O	-1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-NONEN-1-OL	22104796	C(O)C=CCCCCCC	0.77	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Butanol,	624953	OCCC(C)(C)C	-0.74	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+diaminopropane,	109762	C(CCN)N	-0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-methyl-3-buten-1-ol	763326	OCCC(C)=C	-1.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Pentenyl alcohol	821090	OCCCC=C	-1.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Pentyn-1-ol	10229104	CC#CCCO	-1.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Heptyn-1-ol	14916791	CCCC#CCCO	-0.32	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propylamine, 3-methoxy-	5332730	COCCCN	-1.77	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Buten-1-ol	6117915	C(C=CC)O	-1.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Buten-1-ol	6117-91-5	C(=C\C)\CO	-1.472	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Pentanediol, 2-methyl-	107415	OC(C)CC(C)(C)O	-1.95	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+.gamma.,.gamma.-Dimethylallyl alcohol	556821	C(C)(=CCO)C	-1.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-2,4-pentanediol	107-41-5	C(C(C)(C)O)[C@H](C)O	-1.953	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Penten-4-ol	625310	C=CCC(C)O	-1.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Penten-2-ol	625-31-0	C([C@H](C)O)C=C	-1.517	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+beta-Hydroxynaphthaldehyde	708065	O=CC1=C2C(=CC=C1O)C=CC=C2	1.32	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-1-Naphthaldehyde	7770458	C1C(=C2C=CC=CC(=C(C=1)O)2)C=O	1.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxybenzaldehyde	90028	C1=CC=C(C(=C1)C=O)O	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitroresorcinol	601-89-8	N(=O)(=O)c1c(O)cccc1O	0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+alpha-Naphthal	66773	C1=CC=C2C(=C1C(=O))C=CC=C2	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-3-nitrobenzaldehyde	3011-34-5	N(=O)(=O)c1cc(C=O)ccc1O	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrophenol	88-75-5	N(=O)(=O)c1c(O)cccc1	0.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,2,5-dihydroxy-(9CI)	1194985	C1(=CC=C(C(=C1)C=O)O)O	0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+9-Phenanthrenecarboxaldehyde	4707715	O=CC1=C2C(=C3C=CC=CC(=C1)3)C=CC=C2	1.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-hydroxy-2-nitrobenzaldehyde	42454-06-8	C(=O)c1c(N(=O)=O)ccc(c1)O	0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+beta-Rosorcaldehyde	95012	O=CC1=C(O)C=C(O)C=C1	0.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hydroxybenzaldehyde	100834	C1=CC(=CC(=C1)O)C=O	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-dinitrophenol	66-56-8	N(=O)(=O)c1c(N(=O)=O)cccc1O	0.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+o-Pyrocatechualdehyde	24677789	C(C1=C(C(=CC=C1)O)O)(=O)	0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Naphthalenecarboxaldehyde,2-methyl-(9CI)	35699446	CC1=CC=C(C=CC=C2)C2=C1C=O	1.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+p-hydroxy-	123080	C(C1C=CC(=CC=1)O)=O	0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,	487707	O=CC1=C(O)C=C(O)C=C1O	0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-3-nitrophenol	5460-31-1	N(=O)(=O)c1c(C)c(O)ccc1	0.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitro-1-naphthol	607-24-9	Oc1c2c(ccc1N(=O)=O)cccc2	1.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxy-3-nitrobenzaldehyde	5274-70-4	N(=O)(=O)c1c(O)c(C=O)ccc1	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Methyl-2-nitrophenol	4920-77-8	N(=O)(=O)c1c(C)cccc1O	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hydroxy-4-nitrobenzaldehyde	704-13-2	N(=O)(=O)c1c(O)cc(cc1)C=O	0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,2'-Dihydroxybenzophenone	835110	C1=CC=C(C(=C1)C(=O)C2=CC=CC=C2O)O	1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,3,4-dihydroxy-	139855	OC1=C(O)C=C(C=O)C=C1	0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl-1-naphthaldehyde	33738486	C1=CC2=C(C=C1)C(=CC=C2C(=O))C	1.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+salicylhydrazide	936-02-7	C(NN)(=O)c1c(O)cccc1	0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrobenzaldehyde	552-89-6	C(=O)c1c(N(=O)=O)cccc1	0.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,4-trihydroxy-	2144083	O=CC1=CC=C(C(=C1O)O)O	0	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	148538	C1=CC(=C(C(=C1)C=O)O)OC	0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	708769	C1=C(C=C(C(=C1OC)C=O)O)OC	0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxybenzophenone	117-99-7	C(=O)(c1c(O)cccc1)c1ccccc1	1.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+salicylhydroxamic acid	89-73-6	C(NO)(=O)c1c(O)cccc1	0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzophenone,	131566	OC1=CC=C(C(C2=CC=CC=C2)=O)C(O)=C1	1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-methyl-2-nitrophenol	119-33-5	N(=O)(=O)c1c(O)ccc(c1)C	0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+salicylamide	65-45-2	C(N)(=O)c1c(O)cccc1	-0.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-3-hydroxybenzoate	19438-10-9	C(OC)(=O)c1cc(O)ccc1	-0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+o-Cresol (2-methylphenol)	95487	CC1=CC=CC=C1O	-0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+tolualdehyde,o-	529204	C(C1C(=CC=CC=1)C)=O	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	56962119	C(=O)C1=C(Cl)C=C(C=C1)O	0.89	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Anisaldehyde	135024	COC1=CC=CC=C1C=O	0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-hydroxyacetophenone	121-71-1	C(C)(=O)c1cc(O)ccc1	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-Dimethylphenol	526750	CC1=C(C(=CC=C1)O)C	0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	492886	C(OC1=C(O)C(C=O)=CC=C1)C	0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Isopropylphenol	88697	CC(C)C1=CC=CC=C1O	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Ethylphenol	90006	CCC1=CC=CC=C1O	0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxydiphenylmethane	28994-41-4	C(c1c(O)cccc1)c1ccccc1	1.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-hydroxyacetophenone	99-93-4	C(C)(=O)c1ccc(cc1)O	-0.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	131577	COC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O	1.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C1=CC=C(C=C1)OC(=O)C2=CC=C(C=C2)O	17696627	C1=CC=C(C=C1)OC(=O)C2=CC=C(C=C2)O	1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	1143722	O=C(C1=C(O)C(O)=C(O)C=C1)C2=CC=CC=C2	0.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-cyclopentylphenol	1518-83-8	Oc1ccc(cc1)C1CCCC1	1.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-cyclohexylphenol	1131608	c1(ccc(cc1)O)C1CCCCC1	1.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(Dimethylamino)benzaldehyde	100107	CN(C)C1=CC=C(C=C1)C=O	0.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+monobenzoate	136367	C1=CC=C(C=C1)C(=O)OC2=CC=CC(=C2)O	1.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-sec-butylphenol	89-72-5	C([C@H](C)c1c(O)cccc1)C	0.98	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,5-Trimethoxybenzaldehyde	4460860	COC1=CC(=C(C=C1C=O)OC)OC	-0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Allylphenol	1745819	C=CCC1=CC=CC=C1O	0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4'-Hydroxypropiophenone	70702	CCC(=O)C1=CC=C(C=C1)O	0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Naphthyl acetate	830-81-9	O(C(C)=O)c1c2c(ccc1)cccc2	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,6-Tris(dimethylaminomethyl)phenol	90722	CN(C)CC1=CC(=C(C(=C1)CN(C)C)O)CN(C)C	-0.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N,N-dimethylbenzylamine	103833	C(N(C)C)c1ccccc1	0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Phenyl-2-butanol	1.20E+08	CCC(CC1=CC=CC=C1)O	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-phenyl-2-butanol	120055-09-6	C([C@H](CC)O)c1ccccc1	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(¡À)-1-Phenyl-2-pentanol	705737	CCCC(CC1=CC=CC=C1)O	0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Phenyl-2-propanol	14898874	CC(CC1=CC=CC=C1)O	-0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+a,a-Dimethylbenzenepropanol	103059	CC(C)(CCC1=CC=CC=C1)O	-0.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-1-phenyl-2-propanol	100867	CC(C)(CC1=CC=CC=C1)O	-0.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-phenyl-1-butylamine	13214669	NCCCCc1ccccc1	0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Phenyl-1-butanol	3360416	C1=CC=C(C=C1)CCCCO	0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Phenyl-1-propanol	122974	C1=CC=C(C=C1)CCCO	-0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Butylbenzene	104518	CCCCC1=CC=CC=C1	1.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,1-Diphenyl-2-propanol	29338496	CC(C(C1=CC=CC=C1)C2=CC=CC=C2)O	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,1-diphenyl-2-propanol	29338-49-6	C([C@@H](C)O)(c1ccccc1)c1ccccc1	1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-Phenyl-1-hexanol	2430162	C1=CC=C(C=C1)CCCCCCO	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Phenyl-1-pentanol	10521912	C1=CC=C(C=C1)CCCCCO	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(¡À)-1,2-Diphenyl-2-propanol	5342870	CC(CC1=CC=CC=C1)(C2=CC=CC=C2)O	0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(¡À)-1,2-diphenyl-2-propanol	5342-87-0	C([C@](C)(O)c1ccccc1)c1ccccc1	0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Amylbenzene	538681	CCCCCC1=CC=CC=C1	1.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+alcohol	60128	C1=CC=C(C=C1)CCO	-0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(¡À)-2-Phenyl-2-butanol	1565759	CCC(C)(C1=CC=CC=C1)O	0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(¡À)1-Phenyl-1-propanol	93549	CCC(C1=CC=CC=C1)O	-0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(¡À)-2-phenyl-2-butanol	1565-75-9	C([C@](C)(O)c1ccccc1)C	0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Ethylbenzyl alcohol	768592	CCC1=CC=C(C=C1)CO	0.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-phenyl-1-butanol	22144-60-1	C([C@@H](O)c1ccccc1)CC	-0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(R+-)-1-Phenyl-1-butanol	22144601	CCCC(C1=CC=CC=C1)O	-0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Phenylethylamine	618360	CC(C1=CC=CC=C1)N	-0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Phenyl-2-propanol	617947	CC(C)(C1=CC=CC=C1)O	-0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(Sec)phenethyl alcohol	98851	CC(C1=CC=CC=C1)O	-0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+sec-phenethyl alcohol	98-85-1	C[C@@H](O)c1ccccc1	-0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methylbenzyl alcohol	89952	CC1=CC=CC=C1CO	-0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Propylaniline	1821392	CCCC1=CC=CC=C1N	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Ethylaniline	587020	CCC1=CC(=CC=C1)N	-0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Phenyl-1-butanol	2722363	CC(CCO)C1=CC=CC=C1	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Butylaniline	104132	CCCCC1=CC=C(C=C1)N	1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Phenyl-1-butanol	89104461	C1=CC=CC=C1C(CC)CO	-0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-phenyl-1-butanol	2722-36-3	C([C@H](C)c1ccccc1)CO	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-phenyl-3-butyn-2-ol	127-66-2	C([C@](C)(O)c1ccccc1)#C	-0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-Diethylaniline	579668	CCC1=C(C(=CC=C1)CC)N	0.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Phenyl-3-butyn-2-ol	127662	CC(C#C)(C1=CC=CC=C1)O	-0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Methylphenethylamine	589082	CNCCC1=CC=CC=C1	-0.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzyl alcohol	100516	C1=CC=C(C=C1)CO	-0.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzhydrol	91010	C1=CC=C(C=C1)C(C2=CC=CC=C2)O	0.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzylamine	100469	C1=CC=C(C=C1)CN	-0.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Ethylaniline	578541	CCC1=CC=CC=C1N	-0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Phenyl-2-propen-1-ol	104541	C1=CC=C(C=C1)C=CCO	-0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzamide	55210	C(=O)(c1ccccc1)N	-0.91	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Thiobenzamide	2227794	C1=CC=C(C=C1)C(=S)N	0.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(2-Bromoethyl)benzene	103639	C1=CC=C(C=C1)CCBr	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Isopropylbenzyl	536607	CC(C)C1=CC=C(C=C1)CO	0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Carbanilic acid,2,5-dimethyl-4-thiocyanato-,3,4,5,6-tetrabromo-o-tolyl ester (8CI)	24065-40-5	O(C(Nc1c(C)cc(c(c1)C)SC#N)=O)c1c(Br)c(Br)c(c(c1C)Br)Br	2.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methanol	67561	CO	-2.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,2'-Bithiophen	492977	C1(C2=CC=CS2)=CC=CS1	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Phenylpyridine	1008895	C1=CC=C(C=C1)C2=CC=CC=N2	0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Phenylpyridine	1008884	C1=CC=C(C=C1)C2=CN=CC=C2	0.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butanone,	5469261	C(C(CBr)=O)(C)(C)C	2.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Propanone,1,3-dichloro-	534076	C(C(CCl)=O)Cl	2.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-Butanedione,	6305437	C(C(CBr)=O)(CBr)=O	1.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chloro-2-butanone	4091-39-8	C([C@@H](C)Cl)(C)=O	0.269	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+HYDROXYL NUMBER REAGENT	17346166	C(C(Br)(C)C)(C(Br)(C)C)=O	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butanone,3-chloro-	4091398	CC(Cl)C(=O)C	0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Propanone,1,1-dichloro-	513882	C(C(C)=O)(Cl)Cl	0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chlorpentan-2,4-dion	1694297	CC(=O)C(Cl)C(=O)C	1.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-DIBROMO-3,4-Hexanedione	39081919	C(C(C(Br)C)=O)(C(Br)C)=O	2.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Dibromo-3,4-hexanedione	39081-91-9	C(C([C@@H](Br)C)=O)([C@@H](Br)C)=O	2.168	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	53955810	O=C(C(CC)C)OC	-1.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl.alpha.-methylbutyrate	7452791	CCC(C(OCC)=O)C	-0.89	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Diethyl 2-ethylmalonate	133131	C(C(C(OCC)=O)C(OCC)=O)C	-0.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	1679476	C1C(C(OC1)=O)C	-1.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Dihydro-3-methyl-2(3H)-furanone	1679-47-6	C[C@H]1C(=O)OCC1	-1.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Metile (acetato di) (ITALIAN)	79209	C(C)(=O)OC	-1.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propionic acid, methyl ester	554121	C(CC)(=O)OC	-1.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propanedioic acid, dimethyl ester (9CI)	108598	C(CC(=O)OC)(=O)OC	-1.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-ethylbutyl acetate	10031875	CCC(CC)COC(=O)C	-0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	106650	C(CCC(=O)OC)(=O)OC	-1.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Vinyl 2-ethylhexanoate	94-04-2	C([C@@H](CCCC)CC)(OC=C)=O	1.046	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexanoic acid, 2-ethyl-, vinyl ester	94042	C(C(OC=C)=O)(CCCC)CC	1.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-2-hexynoate	18937-79-6	C(C#CCCC)(OC)=O	0.763	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propylmalonic acid diethyl ester	2163486	C(C(C(OCC)=O)C(OCC)=O)CC	0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-ethyl-	97961	C(CC)(CC)C=O	-0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methylbutyraldehyde	96-17-3	C([C@H](C=O)C)C	-0.311	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	609085	CC(C(OCC)=O)C(OCC)=O	-0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isobutyric	97621	C(C(C)C)(=O)OCC	-1.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyraldehyde, 2-methyl-	96173	C(CC)(C=O)C	-0.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-2-nonynoate	111-80-8	C(C#CC(OC)=O)CCCCC	1.322	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-2-octynoate	111-12-6	C(#CC(OC)=O)CCCCC	1.043	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butylmalonic acid diethyl ester	133084	C(C(C(OCC)=O)C(OCC)=O)CCC	0.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-2-butynoate	23326-27-4	C(C#CC)(OC)=O	0.403	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl tiglate	6622-76-0	C(\C(OC)=O)(=C\C)C	-0.617	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Diethyl 2-allylmalonate	2049801	C(C(C(OCC)=O)C(OCC)=O)C=C	-0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-3,3-dimethylacrylate	924-50-5	C(\C=C(\C)C)(OC)=O	-1.061	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+dichloromethyl cyanide	3018120	N#CC(Cl)Cl	0.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Dibrommethylcyanid	3252435	C(C(Br)Br)#N	2.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Bromessigsaeurenitril	590170	C(Br)C#N	2.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+chloroacetonitrile [MONOCHLOROACETONIC	107142	C(CCl)#N	0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Nitrile trichloracetique	545062	C(C(Cl)(Cl)Cl)#N	1.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-CHLOROPROPIONITRILE	1617170	C(C#N)(C)Cl	-0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-BROMOPROPIONITRILE	19481824	C(#N)C(Br)C	0.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propanenitrile, 2-bromo-	19481-82-4	C([C@@H](Br)C)#N	0.626	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloropropanenitrile	1617-17-0	C([C@H](C)Cl)#N	-0.863	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propionitrile, 3-chloro-	542767	C(CCCl)#N	-1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-cyanopyridine	100-48-1	C(#N)c1ccncc1	-0.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-cyanopyridine	100-54-9	C(#N)c1cccnc1	-0.74	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-cyanopyridine	100-70-9	C(#N)c1ccccn1	-0.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+benzonitrile	100-47-0	C(#N)c1ccccc1	-0.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Benzylpyridine	2116656	C1=CC=C(C=C1)CC2=CC=NC=C2	0.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-tolunitrile	104-85-8	C(#N)c1ccc(cc1)C	-0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-4-cyanobenzoate	1129357	N#Cc1ccc(C(=O)OC)cc1	-0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzonitrile,	105077	C1=C(C=CC(=C1)C=O)C#N	0.043	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-cyanophenol	767-00-0	C(#N)c1ccc(cc1)O	0.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-cyanophenol	611201	N#Cc1c(O)cccc1	0.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-benzylpyridine	620951	n1cc(Cc2ccccc2)ccc1	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methoxybenzonitrile	874908	COC1=CC=C(C=C1)C#N	0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Benzylpyridine	101826	C1=CC=C(C=C1)CC2=CC=CC=N2	0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Cyanobenzamide	3034342	C1=CC(=CC=C1C#N)C(=O)N	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-cyanophenol	873621	N#Cc1cc(O)ccc1	-0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	26522850	C(C([O-])=O)C([O-])=O	-1.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Jantaran sodny (Czech)	150903	C(CCC(=O)[O-])(=O)[O-]	-1.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid, sodium salt	156547	CCCC([O-])=O	-1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Natriumpropionat (German)	137406	C(CC)(=O)[O-]	-1.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-hexanoate	10051442	CCCCCC([O-])=O	-0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+SODIUM OCTANOATE-1-13C	1984061	CCCCCCCC([O-])=O	0	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+NCINSC#54711	108930	C1(CCCCC1)O	-0.77	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Decanol	2051312	CCCC(CCCCCC)O	0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Decanol	2051-31-2	C([C@H](CCC)O)CCCCC	0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(+-)-3-octanol	20296291	CCC(CCCCC)O	0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(+-)-3-octanol	20296-29-1	C([C@@H](CC)O)CCCC	0.031	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(+/-)-2-Octanol	4128-31-8	C(C[C@H](C)O)CCCC	0.001	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nonanol	628-99-9	C(CCCCC)C[C@H](C)O	0.618	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+NONAN-2-OL	628999	CC(CCCCCCC)O	0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(+/-)-2-Octanol	4128318	CC(CCCCCC)O	0	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Hexanediol	2935-44-6	C(C[C@H](C)O)[C@@H](C)O	-1.96	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propylamine, 1-ethyl-(8CI)	616240	C(C(CC)N)C	-0.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+sec-Pentanol	584021	CCC(CC)O	-1.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+WLN: QY1&2YQ1	2935446	C(CC(C)O)C(C)O	-1.96	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Methyl-n-butylamine	625309	C(C(C)N)CC	-0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-pentanol	6032297	CC(O)CCC	-1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Pentanol	6032-29-7	C([C@H](C)O)CC	-1.1596	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Sec-amylamine	625-30-9	C([C@H](C)N)CC	-0.685	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Butyl ethynyl carbinol	7383199	CCCCC(O)C#C	-0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-Butylethylenglykol	6920225	CCCCC(O)CO	-1.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-NORLEUCINOL	5665747	C(CCCC)(CO)N	-0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Decanediol (8CI9CI)	1119864	C(CCCCCC)CC(CO)O	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Decanediol	1119-86-4	C(CC[C@@H](CO)O)CCCCC	0.764	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Heptyn-3-ol	7383-19-9	C([C@H](C#C)O)CCC	-0.265	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+dl-2-Amino-1-hexanol	16397-19-6	C([C@@H](CO)N)CCC	-0.5848	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-1,2-Hexanediol	6920-22-5	C([C@@H](CO)O)CCC	-1.267	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-2-AMINO-1-PENTANOL	4146047	C(CCC)(CO)N	-0.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Pentanediol (8CI9CI)	5343920	OCC(CCC)O	-1.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+dl-2-Amino-1-pentanol	16369-14-5	C([C@@H](CO)N)CC	-0.6718	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Pentanediol	5343-92-0	C([C@@H](CO)O)CC	-1.627	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hydroxy-1-hexene	4798441	C=CC(CCC)O	-0.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Hexen-3-ol	4798-44-1	C([C@@H](C=C)O)CC	-0.811	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,4,5-Tetrachlorobenzene	95943	C1=C(C(=CC(=C1Cl)Cl)Cl)Cl	2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2,4-Trichlorobenzene	120821	C1=CC(=C(C=C1Cl)Cl)Cl	1.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3,5-Trichlorobenzene	108703	C1=C(C=C(C=C1Cl)Cl)Cl	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Dichlorobenzene	95501	C1=CC=C(C(=C1)Cl)Cl	0.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,5,6-Tetrachloroaniline	3481207	C1=C(C(=C(C(=C1Cl)Cl)N)Cl)Cl	1.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,5,6-tetrachlorophenol	935-95-5	Clc1c(O)c(Cl)c(cc1Cl)Cl	2.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,5,6-tetrafluorophenol	769-39-1	Fc1c(O)c(F)c(cc1F)F	1.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-Dibromobenzene	106376	C1=CC(=CC=C1Br)Br	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,5-Trichloroaniline	636306	C1=C(C(=CC(=C1Cl)Cl)Cl)N	1.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,5-Trichlorophenol	95954	C1=C(C(=CC(=C1Cl)Cl)Cl)O	2.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Bromobenzene	108861	C1=CC=C(C=C1)Br	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,4,6-Tetrachlorophenol	58902	C1=C(C(=C(C(=C1Cl)Cl)Cl)O)Cl	2.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C1=CC=C(C=C1)Cl	108907	C1=CC=C(C=C1)Cl	-0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Iodobenzene	591504	C1=CC=C(C=C1)I	0.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,5-trichlorophenol	933-78-8	Clc1c(Cl)cc(cc1O)Cl	2.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,5,6-tetrachloronitrobenzene	117-18-0	N(=O)(=O)c1c(Cl)c(Cl)cc(c1Cl)Cl	1.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,4,5-Tetrachloroaniline	634833	C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)N	1.96	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chloro-4-methylaniline	95749	CC1=C(C=C(C=C1)N)Cl	0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chloro-2-methylaniline	87605	CC1=C(C=CC=C1Cl)N	0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Chloro-2-methylaniline	95794	CC1=C(C=C(C=C1)Cl)N	0.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloro-4-methylaniline	615656	CC1=CC(=C(C=C1)N)Cl	0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dichloro-3-methylaniline	64063372	c1(c(c(c(cc1)Cl)N)Cl)C	0.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methylaniline	106490	CC1=CC=C(C=C1)N	-0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Dimethylaniline	956473	CC1=C(C=C(C=C1)N)C	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+a,a,a-4-Tetrafluoro-3-toluidine	2357473	C1=CC(=C(C=C1N)C(F)(F)F)F	0.77	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Iodoaniline	626017	C1=CC(=CC(=C1)I)N	0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Fluoroaniline	372190	C1=CC(=CC(=C1)F)N	-0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chloroaniline	108429	C1=CC(=CC(=C1)Cl)N	0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Methylaniline	108441	CC1=CC(=CC=C1)N	-0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-2-methylaniline	95692	CC1=C(C=CC(=C1)Cl)N	0.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloro-5-methylaniline	95818	Nc1c(Cl)ccc(c1)C	0.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloroaniline	106478	C1=CC(=CC=C1N)Cl	0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dichloroaniline	626437	C1=C(C=C(C=C1Cl)Cl)N	0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Isopropylaniline	99887	CC(C)C1=CC=C(C=C1)N	0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloro-4-nitroaniline	121-87-9	N(=O)(=O)c1cc(Cl)c(cc1)N	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(Tert)butylaniline	769926	CC(C)(C)C1=CC=C(C=C1)N	0.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dimethylaniline	95681	CC1=CC(=C(C=C1)N)C	-0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Isopropylaniline	643287	CC(C)C1=CC=CC=C1N	0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-Dimethylaniline	87592	CC1=C(C(=CC=C1)N)C	-0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Ethylaniline	589162	CCC1=CC=C(C=C1)N	0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-Diisopropylaniline	24544045	CC(C)C1=C(C(=CC=C1)C(C)C)N	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-Chloro-2-fluoro-3-methylbenzaldehyde	286474-59-7	C(=O)c1c(F)c(C)ccc1Cl	1.238	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-aminobenzonitrile	873-74-5	C(#N)c1ccc(cc1)N	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-Dimethylaniline	87627	CC1=C(C(=CC=C1)C)N	-0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+a,a,a-4-Tetrafluoro-o-toluidine	393395	C1=CC(=C(C=C1F)C(F)(F)F)N	-0.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Aminobenzyl alcohol	1877776	NC1=CC(CO)=CC=C1	-1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(Sec)-butylaniline	30273111	CCC(C)C1=CC=C(C=C1)N	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Benzoylaniline	1137413	C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)N	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-aminobenzamide	2835689	C(N)(=O)c1ccc(N)cc1	-0.91	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Iodoaniline	615430	C1=CC=C(C(=C1)N)I	0.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloroaniline	95512	C1=CC=C(C(=C1)N)Cl	-0.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-amino-4-chloro-5-nitrophenol	7/2/6358	N(=O)(=O)c1c(Cl)cc(c(c1)O)N	1.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Fluoroaniline	348549	C1=CC=C(C(=C1)N)F	-0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Cyanoaniline	2237301	C1=CC(=CC(=C1)N)C#N	-0.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-Phenylenediamine	106-50-3	Nc1ccc(cc1)N	-0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-aminobenzonitrile	1885-29-6	C(#N)c1c(N)cccc1	-0.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentafluoroaniline	771608	C1(=C(C(=C(C(=C1F)F)F)F)F)N	0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrobenzoic acid	62-23-7	C(=O)(O)c1ccc(cc1)N(=O)=O	-0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrobenzoic acid	121-92-6	C(=O)(O)c1cc(N(=O)=O)ccc1	-1.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrobenzoic acid	552-16-9	C(=O)(O)c1c(N(=O)=O)cccc1	-1.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-dinitrobenzene	100-25-4	N(=O)(=O)c1ccc(cc1)N(=O)=O	1.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-hydroxybenzoic acid	99-96-7	C(=O)(O)c1ccc(cc1)O	-1.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+p-Biphenylcarboxylic acid	92-92-2	C(=O)(O)c1ccc(cc1)c1ccccc1	0.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+nitrobenzene	98-95-3	N(=O)(=O)c1ccccc1	0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrotoluene	99-99-0	N(=O)(=O)c1ccc(cc1)C	0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-dinitrobenzene	99-65-0	N(=O)(=O)c1cc(N(=O)=O)ccc1	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrophenol	100-02-7	N(=O)(=O)c1ccc(cc1)O	1.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-hydroxybenzoic acid	99-06-9	C(=O)(O)c1cc(O)ccc1	-0.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-dimethyl-2-nitrobenzene	81-20-9	N(=O)(=O)c1c(C)cccc1C	0.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-dimethyl-4-nitrobenzene	99-51-4	N(=O)(=O)c1cc(C)c(cc1)C	0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrobenzaldehyde	555-16-8	N(=O)(=O)c1ccc(cc1)C=O	0.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-dinitrophenol	329-71-5	N(=O)(=O)c1cc(O)c(cc1)N(=O)=O	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-dinitrobenzene	528-29-0	N(=O)(=O)c1c(N(=O)=O)cccc1	1.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-ethylnitrobenene	100-12-9	N(=O)(=O)c1ccc(cc1)CC	0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-methyl-2,4-dinitrobenzene	121-14-2	N(=O)(=O)c1cc(N(=O)=O)ccc1C	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrobenzaldehyde	99-61-6	N(=O)(=O)c1cc(C=O)ccc1	0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrotoluene	99-08-1	N(=O)(=O)c1cc(C)ccc1	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-4-nitrobenzoate	619-50-1	C(OC)(=O)c1ccc(cc1)N(=O)=O	0.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-dinitrophenol	51-28-5	N(=O)(=O)c1cc(N(=O)=O)ccc1O	1.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrophenol	554-84-7	N(=O)(=O)c1cc(O)ccc1	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+salicylic acid	69-72-7	C(=O)(O)c1c(O)cccc1	-0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-methyl-5-nitrophenol	5428-54-6	N(=O)(=O)c1cc(O)c(cc1)C	0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-amino-4-nitrophenol	99-57-0	N(=O)(=O)c1cc(N)c(cc1)O	0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrobenzonitrile	619-72-7	N(=O)(=O)c1ccc(cc1)C#N	0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-bromonitrobenzene	586-78-7	N(=O)(=O)c1ccc(cc1)Br	0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,6-trinitrophenol	29663-11-4	N(=O)(=O)c1c(O)c(N(=O)=O)cc(c1)N(=O)=O	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-fluoro-4-nitrobenzene	350-46-9	N(=O)(=O)c1ccc(cc1)F	0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrobenzamide	619-80-7	C(N)(=O)c1ccc(cc1)N(=O)=O	0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dinitrophenol	573-56-8	N(=O)(=O)c1c(O)c(N(=O)=O)ccc1	0.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrobenzyl chloride	100-14-1	N(=O)(=O)c1ccc(cc1)CCl	1.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-dinitrobenzyl alcohol	71022-43-0	N(=O)(=O)c1cc(N(=O)=O)cc(c1)C	0.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-chloro-4-nitrobenzene	100-00-5	N(=O)(=O)c1ccc(cc1)Cl	0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrobenzyl alcohol	619-73-8	N(=O)(=O)c1ccc(cc1)CO	0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitroacetophenone	121-89-1	C(C)(=O)c1cc(N(=O)=O)ccc1	0.32	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-chloro-4-fluoro-1-nitrobenzene	350-30-1	N(=O)(=O)c1cc(Cl)c(cc1)F	0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-dinitrophenol	577-71-9	N(=O)(=O)c1c(N(=O)=O)cc(cc1)O	0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-dichloro-1-nitrobenzene	99-54-7	N(=O)(=O)c1cc(Cl)c(cc1)Cl	1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrotoluene	88-72-2	N(=O)(=O)c1c(C)cccc1	0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-methyl-1,2-dinitrobenzene	610-39-9	N(=O)(=O)c1c(N(=O)=O)cc(cc1)C	1.52	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3,5-trimethyl-2-nitrobenzene	603-71-4	N(=O)(=O)c1c(C)cc(cc1C)C	0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Fluoro-4-nitrophenol	403-19-0	N(=O)(=O)c1cc(F)c(cc1)O	1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloro-4-nitrophenol	619-08-9	N(=O)(=O)c1cc(Cl)c(cc1)O	1.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-chloro-3-nitrobenzene	121-73-3	N(=O)(=O)c1cc(Cl)ccc1	0.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrobenzonitrile	619-24-9	N(=O)(=O)c1cc(C#N)ccc1	0.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrobenzamide	645-09-0	C(N)(=O)c1cc(N(=O)=O)ccc1	-0.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrobenzyl alcohol	619-25-0	N(=O)(=O)c1cc(CO)ccc1	-0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4,6-dinitro-2-methylphenol	534-52-1	N(=O)(=O)c1cc(N(=O)=O)cc(c1O)C	1.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Methyl-2-nitrophenol	700-38-9	N(=O)(=O)c1c(O)cc(cc1)C	0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrodiphenylamine	836-30-6	N(c1ccc(cc1)N(=O)=O)c1ccccc1	1.89	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-bromo-3-nitrobenzene	585-79-5	N(=O)(=O)c1cc(Br)ccc1	1.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-dimethyl-3-nitrobenzene	83-41-0	N(=O)(=O)c1c(C)c(C)ccc1	0.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloromethyl-4-nitrophenol	2973-19-5	C(Cl)c1cc(N(=O)=O)ccc1O	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dichloro-4-nitrophenol	618-80-4	N(=O)(=O)c1cc(Cl)c(c(c1)Cl)O	0.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloro-6-nitrotoluene	83-42-1	N(=O)(=O)c1c(C)c(Cl)ccc1	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxyphenylacetic acid	156-38-7	C(C(=O)O)c1ccc(cc1)O	-1.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-diiodo-4-nitrophenol	305-85-1	N(=O)(=O)c1cc(I)c(c(c1)I)O	1.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-methyl-4-nitrophenol	2581-34-2	N(=O)(=O)c1c(C)cc(cc1)O	1.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-methyl-3-nitrophenol	2042-14-0	N(=O)(=O)c1c(C)ccc(c1)O	0.74	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dibromo-4-nitrophenol	99-28-5	N(=O)(=O)c1cc(Br)c(c(c1)Br)O	1.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-dichloro-1-nitrobenzene	618-62-2	N(=O)(=O)c1cc(Cl)cc(c1)Cl	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-fluoro-3-iodo-5-nitrobenzene	3819-88-3	N(=O)(=O)c1cc(F)cc(c1)I	1.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrobenzyl alcohol	612-25-9	C(O)c1c(N(=O)=O)cccc1	-0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-dinitrobenzyl alcohol	79544-31-3	N(=O)(=O)c1c(N(=O)=O)ccc(c1)CO	1.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrobenzamide	610-15-1	C(N)(=O)c1c(N(=O)=O)cccc1	-0.72	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-nitrobenzonitrile	612-24-8	C(#N)c1c(N(=O)=O)cccc1	1.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-Amino-2,4-dimethylphenol	41458-65-5	Oc1c(C)cc(cc1N)C	0.89	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Amino-2-cresol	2835-96-3	Cc1c(O)ccc(c1)N	1.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,6-Trimethylphenol	527606	CC1=CC(=C(C(=C1)C)O)C	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dimethylaniline	108690	CC1=CC(=CC(=C1)N)C	-0.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dimethylphenol	105679	CC1=CC(=C(C=C1)O)C	0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,6-Trimethylaniline	88051	CC1=CC(=C(C(=C1)C)N)C	-0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dimethylphenol	108689	CC1=CC(=CC(=C1)O)C	0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Amino-4-(tert)butylphenol	1199468	CC(C)(C)C1=CC(=C(C=C1)O)N	0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Dimethylaniline	95783	CC1=CC(=C(C=C1)C)N	-0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Dimethylphenol	95874	CC1=CC(=C(C=C1)C)O	0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Amino-4-hydroxybenzenesulfonic acid	98-37-3	S(=O)(=O)(O)c1cc(N)c(cc1)O	-1.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Amino-2-cresol	53222927	CC1=C(C=CC=C1O)N	-0.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-4-hydroxyaniline	2835-99-6	Cc1c(N)ccc(c1)O	1.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-di(tert.)butylaniline	2380361	C(C)(C)(C)c1cc(C(C)(C)C)cc(c1)N	1.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,5-Trimethylphenol	697825	CC1=CC(=C(C(=C1)O)C)C	0.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dinitro-4-cresol	609-93-8	N(=O)(=O)c1c(O)c(N(=O)=O)cc(c1)C	1.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3,6-Trimethylphenol	2416946	CC1=C(C(=C(C=C1)C)O)C	0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hydroquinone,	700130	C1(C)=C(C)C(O)=C(C)C=C1O	1.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-aminophenol	95-55-6	Nc1c(O)cccc1	0.94	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-diaminophenol	95-86-3	Nc1c(O)ccc(c1)N	0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chloro-5-methoxyphenol	65262966	COC1=CC(=CC(=C1)O)Cl	0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dimethoxyphenol	500992	COC1=CC(=CC(=C1)O)OC	-0.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloroanisole	623121	COC1=CC=C(C=C1)Cl	0.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Methoxyphenol	150196	COC1=CC=CC(=C1)O	-0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methoxyphenol	150765	COC1=CC=C(C=C1)O	-0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dichlorophenol	591355	C1=C(C=C(C=C1Cl)Cl)O	1.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methoxyhydroquinone	824-46-4	O(C)c1c(O)ccc(c1)O	2.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-iodophenol	626-02-8	Ic1cc(O)ccc1	1.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-bromophenol	591-20-8	Brc1cc(O)ccc1	1.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Fluoro-4-nitrophenol	394-41-2	N(=O)(=O)c1c(F)cc(cc1)O	0.94	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-fluorophenol	372-20-3	Fc1cc(O)ccc1	0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chlorophenol	108430	C1=CC(=CC(=C1)Cl)O	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloromethoxybenzene	766-51-8	O(C)c1c(Cl)cccc1	0.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Ethoxy-4-methoxyphenol	65383-57-5	O(CC)c1c(OC)ccc(c1)O	-0.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde,2-chloro-3-hydroxy-4-methoxy-(9CI)	37687573	ClC1=C(C=CC(OC)=C1O)C=O	0.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Bromovanillin	2973764	COC1=C(C(=CC(=C1)C=O)Br)O	0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-3-nitrophenol	610-78-6	N(=O)(=O)c1c(Cl)ccc(c1)O	1.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxy-4-methoxyacetophenone	552410	CC(=O)C1=C(C=C(C=C1)OC)O	0.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl 4-methoxysalicylate	2/6/5446	C(OC)(=O)c1c(O)cc(cc1)OC	0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Butoxyphenol	122941	CCCCOC1=CC=C(C=C1)O	0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-hexyloxyphenol	18979-55-0	O(CCCCCC)c1ccc(cc1)O	1.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-heptyloxyphenol	13037-86-0	O(CCCCCCC)c1ccc(cc1)O	2.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Pentyloxyphenol	18979-53-8	O(CCCCC)c1ccc(cc1)O	1.36	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+p-Phenylene	4044659	c1cc(N=C=S)ccc1N=C=S	3.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenyl isothiocyanate	103720	C1=CC=C(C=C1)N=C=S	1.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dimethylphenyl	40046308	c1c(C)cc(C)cc1N=C=S	1.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	1.50E+08	c1c2CCCc2ccc1N=C=S	2.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-Dimethylphenyl	19241168	Cc1cccc(C)c1N=C=S	1.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Naphthylisothiocyanate	551064	c1c2c(N=C=S)cccc2ccc1	2.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-n-Butylphenyl isothiocyanate	23165448	c1ccc(CCCC)cc1N=C=S	2.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N,N-diethylaniline	91667	c1(N(CC)CC)ccccc1	0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+phenyl	122792	C(Oc1ccccc1)(=O)C	-0.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N-ethyl-N-methylaniline	613978	N(CC)(C)c1ccccc1	0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(German)	100378	C(CN(CC)CC)O	-1.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Triethanolamine	102716	OCCN(CCO)CCO	-1.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3-Benzodioxole-5-ethanamine,N-ethyl-alpha-methyl-	105599	C(CN(C)CCO)O	-1.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N-ethyl-N-methyl-	598561	N(CC)(C)C	-0.91	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CN(CC)CC	616397	CN(CC)CC	-0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Dibromohexane	624204	C(Br)C(Br)CCCC	1.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Dibromohexane	624-20-4	C([C@H](CBr)Br)CCC	1.146	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+octylbromide,	111831	C(CCCCCCC)Br	1.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-bromo-	111251	C(CCBr)CCC	0.94	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentane,	110532	C(CCCC)Br	0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-bromo-	629049	CCCCCCCBr	1.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	2623827	OC(=O)C(Br)CCCCCC	0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromohexanoic acid	616057	CCCCC(C(=O)O)Br	0.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromohexanoic acid	616-05-7	C([C@H](CCCC)Br)(=O)O	0.4547	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butane,	109659	C(CCC)Br	-0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromooctanoic acid	2623-82-7	C([C@H](C(=O)O)Br)CCCCC	0.4907	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N-Hexanoyl Chloride	142610	C(CCCCC)(=O)Cl	0.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentanoic acid, Chloride	638299	C(CCC(Cl)=O)C	-0.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+OTCL	111648	CCCCCCCC(Cl)=O	0.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Heptanoyl Chloride	2528612	C(CCCCCC)(=O)Cl	0.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+butyne-1,4-diol	110656	C(#CCO)CO	-1.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butynol	764012	CC#CCO	-0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Pentyn-1-ol	6261229	CCC#CCO	-0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Aminopropyne	2450717	C(C#C)N	-0.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+PA	107197	C(C#C)O	-1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hexyn-1-ol	764603	CCCC#CCO	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nonyn-1-ol	5921733	CCCCCCC#CCO	0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Octyn-1-ol	20739586	CCCCCC#CCO	0.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Heptylhydroxymethylacetylene	4117140	CCCCCCCC#CCO	0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Tridecyn-1-ol	51887253	C(O)C#CCCCCCCCCCC	2.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Heptynol	1002364	CCCCC#CCO	-0.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C(CBr)O	540512	C(CBr)O	-0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Aethylenechlorhydrin (German)	107073	C(CCl)O	-1.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethanol 2,2,2-trichloro-	115208	C(C(Cl)(Cl)Cl)O	-0.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,2-dichloro-	598389	C(O)C(Cl)Cl	-0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,2,2-tribromo-	75809	C(C(Br)(Br)Br)O	0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Butynyl	927742	C#CCCO	-1.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Penten-4-yn-1-ol	5557880	C(=CC#C)CO	-0.55	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Penten-4-yn-1-ol	5557-88-0	C(=C\CO)\C#C	-0.555	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+cis-2-Buten-1,4-diol with G.C	6117802	C(O)C=CCO	-2.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+WLN: Q2U1	107186	C(C=C)O	-1.92	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+cis-2-Butene-1,4-diol	6117-80-2	C(=C/CO)\CO	-2.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Urethane [Ethylcarbamate]	51796	C(N)(=O)OCC	-1.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Carbamic acid, butyl ester	592358	C(OC(N)=O)CCC	-0.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methylcarbamate	598550	C(N)(=O)OC	-1.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Diethylester kyseliny sirove (Czech)	64675	S(=O)(=O)(OCC)OCC	-0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+TL 158	623814	CCOS(=O)OCC	-0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzylisothiocyanate	622786	c1ccccc1CN=C=S	2.74	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Naphthylmethylisothiocyanate	17112822	c1c2c(CN=C=S)cccc2ccc1	3.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+L-alpha-Methylbenzyl isothiocyanate	24277438	c1ccccc1C(C)N=C=S	2.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Diphenyl-isothiocyanatomethane	3550218	c1ccccc1C(N=C=S)c2ccccc2	3.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Isothiocyanatoethylbenzene	2257092	c1ccccc1CCN=C=S	2.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-3-nitrophenyl	1.27E+08	S=C=NCc1cc(c(cc1)Cl)[N+](=O)[O-]	2.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzophenone	119619	C1=CC=C(C=C1)C(=O)C2=CC=CC=C2	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2.4-dibromo-6-phenylphenol	55815208	Oc1c(cc(Br)cc1Br)c1ccccc1	2.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,6-Trichlorophenol	88062	C1=C(C=C(C(=C1Cl)O)Cl)Cl	1.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromo-2,6-dichlorophenol	3217150	C1=C(C=C(C(=C1Cl)O)Cl)Br	1.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dichloro-4-fluorophenol	392-71-2	Oc1c(Cl)cc(cc1Cl)F	0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4,6-Bromophenol	118796	C1=C(C=C(C(=C1Br)O)Br)Br	1.91	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(4-Bromophenyl)phenol	29558-77-8	Brc1ccc(cc1)c1ccc(cc1)O	2.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dichlorophenol	120832	C1=CC(=C(C=C1Cl)Cl)O	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-difluorophenol	367-27-1	Fc1c(O)ccc(c1)F	0.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dibromophenol	615587	C1=CC(=C(C=C1Br)Br)O	1.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4,6-dichloro-	137199	C1(Cl)=C(O)C=C(O)C(=C1)Cl	0.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	2437492	C1(C(=C(C(=CC=1Br)Br)O)Br)O	1.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-Dichlorophenol	87650	C1=CC(=C(C(=C1)Cl)O)Cl	0.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Phenylphenol	90-43-7	Oc1c(c2ccccc2)cccc1	1.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-difluorophenol	28177-48-2	Oc1c(F)cccc1F	0.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-dichlorophenol	583-78-8	Oc1c(Cl)ccc(c1)Cl	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromophenol	95567	C1=CC=C(C(=C1)O)Br	0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Fluorophenol	367124	C1=CC=C(C(=C1)O)F	0.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chlorophenol	95-57-8	Clc1c(O)cccc1	0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Dihydroxybiphenyl,	1079216	OC1=C(C=C(C=C1)O)C2=CC=CC=C2	2.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,2¡¯-Biphenol	1806-29-7	Oc1c(cccc1)c1c(O)cccc1	0.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-3-methoxyphenethyl alcohol	2380-78-1	O(C)c1cc(CCO)ccc1O	-0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-3-methoxybenzyl	498000	COC1=C(C=CC(=C1)CO)O	-0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-hydroxy-3-methoxybenzylamine	7149102	O(C)c1cc(CN)ccc1O	-0.97	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Allyl-2-methoxyphenol	97-53-0	O(C)c1cc(CC=C)ccc1O	0.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxyphenethyl alcohol	501940	OC1=CC=C(CCO)C=C1	-0.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl-4-hydroxy-3-methoxyphenylacetate	60563-13-5	C(C(OCC)=O)c1cc(OC)c(cc1)O	-0.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-3-methoxyacetophenone	498-02-2	O(C)c1cc(C(C)=O)ccc1O	-0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Methoxy-4-hydroxybenzaldehyde	121335	COC1=C(C=CC(=C1)C=O)O	-0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hydroxy-4-methoxybenzyl alcohol	6/6/4383	C(O)c1cc(O)c(cc1)OC	-0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-3-methoxybenzonitrile	4421083	COC1=C(C=CC(=C1)C#N)O	-0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methoxy-4-propenylphenol	97-54-1	O(C)c1cc(\C=C\C)ccc1O	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methoxy-4-propenylphenol	97541	CC=CC1=CC(=C(C=C1)O)OC	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-methoxyphenol	90-05-1	O(C)c1c(O)cccc1	-0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-amino-2-methoxyphenol	1687-53-2	O(C)c1c(O)cc(cc1)N	0.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hydroxy-4-methoxybenzaldehyde	621590	COC1=C(C=C(C=C1)C=O)O	-0.14	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-(4-tolyl)ethylamine	3261629	CC1=CC=C(C=C1)CCN	-0.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methylphenethyl alcohol	699025	CC1=CC=C(C=C1)CCO	-0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Ethoxy-4-hydroxybenzaldehyde	121324	CCOC1=C(C=CC(=C1)C=O)O	0.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+syringaldehyde	134-96-3	O(C)c1c(O)c(OC)cc(c1)C=O	0.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(4-Hydroxyphenyl)-2-butanone	5471-51-2	C(CC(C)=O)c1ccc(cc1)O	-0.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-HYDROXYVERATRALDEHYDE	29865905	C(=O)C1=CC(OC)=C(OC)C(O)=C1	-0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-hydroxybenzamide	619578	C(N)(=O)c1ccc(cc1)O	-0.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CCCCCCCCCC1=CC=C(C=C1)O	104405	CCCCCCCCCC1=CC=C(C=C1)O	2.47	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dimethoxyphenol	91-10-1	O(C)c1c(O)c(OC)ccc1	-0.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Ethylphenol	123079	CCC1=CC=C(C=C1)O	0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxyethylsalicylate	87-28-5	C(OCCO)(=O)c1c(O)cccc1	-0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Propylphenol	645567	CCCC1=CC=C(C=C1)O	0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzyl-4-hydroxyphenyl ketone	2491329	C1=CC=C(C=C1)CC(=O)C2=CC=C(C=C2)O	1.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Resorcinol	49650886	C1(OCCO)C=C(O)C=CC=1	-0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-(trifluoromethyl)-4-nitrophenol	88-30-2	C(F)(F)(F)c1c(N(=O)=O)ccc(c1)O	1.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Benzyloxyphenol	103-16-2	O(Cc1ccccc1)c1ccc(cc1)O	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Ethyl-1-hexanol	104-76-7	C([C@@H](CC)CO)CCC	0.167	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Ethyl-l-hexanol	104767	C(C(CCCC)CC)O	0.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Pentanol,	58175578	C(O)C(CCC)CCC	0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-1-butanol	137-32-6	C([C@H](CO)C)C	-0.953	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methylbutylamine	96-15-1	C([C@H](CN)C)C	-0.477	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+S-(-)-2-METHYLBUTYLAMINE	96151	CCC(CN)C	-0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Butanol, 2-methyl-	137326	C(C(CC)C)O	-0.95	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isobutyl	78831	C(C(C)C)O	-1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	78819	C(C(C)C)N	-0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-5-pentanol	626891	C(C(C)C)CCO	-0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Ethyl-1-hexyl acetate	103-09-3	C([C@@H](CCCC)CC)OC(C)=O	1.057	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+L-Isoleucinol	24629252	NC(CO)C(C)CC	-0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+L(+)-Isoleucinol	24629-25-2	C([C@@H]([C@@H](CO)N)C)C	-0.659	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Octyn-1-ol	14916804	CCCCC#CCCO	0.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Heptyn-3-ol, 4-methyl-, (3S,4R)-(9CI)	360078-17-7	C([C@H]([C@@H](C#C)O)C)CC	0.7426	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl-1-heptyn-3-ol	87777466	C#CC(O)C(C)CCC	0.74	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Tetradecyn-1-ol	55182746	C(O)CC#CCCCCCCCCCC	2.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxyethyl-n-pentylacetylene	31333138	CCCCCC#CCCO	0.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Hydroxyethyl-n-hexylacetylene	51721392	CCCCCCC#CCCO	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzene	71432	C1=CC=CC=C1	-0.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+sulfone	597353	C(S(CC)(=O)=O)C	-1.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,1'-sulfonylbis-	598049	CCCCS(=O)(=O)CCCC	-0.26	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl vinyl sulfone	1889594	C(S(C=C)(=O)=O)C	0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+sulfonylbis-	67710	S(=O)(=O)(C)C	-2.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl	3680022	S(C=C)(C)(=O)=O	0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C(CC)=O	123386	C(CC)=O	-0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propanoic acid, tert-Butyl ester	20487405	CCC(OC(C)(C)C)=O	-0.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethene, 1,1-sulfonylbis-	77770	S(C=C)(C=C)(=O)=O	1.41	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Thianonane	544401	S(CCCC)CCCC	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,3-Dimethylbutanal	2987168	CC(C)(CC=O)C	-0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Oxetanone	57578	O=C1CCO1	-0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethanol, 2-((1,1-dimethylethyl)amino)-	4620706	C(NCCO)(C)(C)C	-1.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethanol, 2-(ethylamino)-	110736	OCCNCC	-1.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Amino-2-methyl-1-propanol	124685	CC(CO)(N)C	-1.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(German)	111422	N(CCO)CCO	-1.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+butanol,	75650	C(C)(C)(C)O	-1.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+butylamine,t-	75649	CC(C)(N)C	-0.9	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethanol	64175	C(C)O	-1.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Aminoaethanol (German)	141435	C(CN)O	-1.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Monomethyl-aminoaethanol (German)	109831	C(CNC)O	-1.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-(propylamino)-	16369214	OCCNCCC	-1.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Neopentanolamine	26734098	NCC(CO)(C)C	-0.92	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+tert-Butylcarbinol	75843	C(C(C)(C)C)O	-0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Propen-1-ol, 2-methyl-	513428	C(CO)(C)=C	-1.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Buten-3-ol, 3-methyl-	115184	C=CC(C)(C)O	-1.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzylidene malononitrile	2700223	C1=CC=C(C=C1)C=C(C#N)C#N	0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Cinnamonitrile	4360478	C1=CC=C(C=C1)C=CC#N	0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-methyl-2-pentenal	623-36-9	C(=C\CC)(\C=O)C	-0.022	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-methyl-2-butenal	497-03-0	C(=C\C)(\C=O)C	-0.139	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-dimethyl-2,6-heptadienal	85136-08-9	C(\[C@@H](CC=C)C)=C(\C=O)C	0.083	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-trans-2-methyl-2-pentenoate	1567-14-2	C(\C(OC)=O)(=C\CC)C	-0.376	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-ethylacrolein	922-63-4	C(CC)(C=O)=C	0.911	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2,cis-6-nonadienal	557-48-2	C(C\C=C\C=O)\C=C\CC	1.335	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans,trans-2,4-heptadienalc	3/5/4313	C(\C=C\C=O)=C\CC	0.862	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-methyl-2-butenal	107-86-8	C(=C(\C)C)\C=O	0.088	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Pentanol,	600362	CC(C(C(C)C)O)C	-0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Methyl-2-butanol	598-75-4	C([C@H](C)O)(C)C	-0.996	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propylamine,1,2-dimeyhyl-	598743	CC(C(C)N)C	-0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-dimethylpropylamine	598-74-3	C([C@H](C)N)(C)C	-0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butanol, 3-methyl-(8CI9CI)	598754	CC(C(C)C)O	-1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Pentyn-3-ol, 4-methyl-(8CI9CI)	565684	CC(C)C(O)C#C	-0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(DL-VALINOL)	16369054	CC(C)C(N)CO	-0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-2-Amino-3-methyl-1-butanol	16369-05-4	C([C@H](CO)N)(C)C	-0.585	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl-1-pentyn-3-ol	565-68-4	C([C@H](C#C)O)(C)C	-0.027	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isopropylamine (ACGIH:OSHA)	75310	CC(C)N	-0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isopropyl	67630	CC(C)O	-1.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+DL-3-butyn-2-ol	65337135	C#CC(O)C	-0.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Butyn-3-ol	2028-63-9	C([C@H](C)O)#C	-0.4024	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Pentene-3-ol	616251	C(CC)(C=C)O	-1.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Penten-3-ol	616-25-1	C([C@@H](C=C)O)C	-1.348	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-2-propenol	598323	C=CC(C)O	-1.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Buten-2-ol	598-32-3	C([C@H](C)O)=C	-1.053	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+L-Leucinol HCl	7533406	CC(C)CC(N)CO	-0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Chloro-2-propanol, technical grade	127004	C(C(C)O)Cl	-1.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-bromo-2-propanol	19686-73-8	C([C@H](C)O)Br	-1.189	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-chloro-2-propanol	127-00-4	C([C@H](C)O)Cl	-1.492	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl-propenylcarbinol	1569502	CC=CC(C)O	-1.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+bromo-2-propanol,	19686738	CC(CBr)O	-1.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Penten-2-ol	1569-50-2	C(\[C@H](C)O)=C\C	-1.401	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldoxime	622322	C1=CC=C(C=C1)C=NO	-0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrobenzaldoxime	1129-37-9	N(=O)(=O)c1ccc(cc1)\C=N\O	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+salicylaldoxime	94-67-7	C(=N\O)\c1c(O)cccc1	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Salicylaldoxime	94677	c1(c(O)cccc1)C=NO	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde	100527	C1=CC=C(C=C1)C=O	-0.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenyl-1,3-dialdehyde	626197	C1=CC(=CC(=C1)C=O)C=O	0.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Terephtaldehyde	623278	C1=CC(=CC=C1C=O)C=O	-0.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzaldehyde, 4-methyl-	104870	C(=O)C1=CC=C(C=C1)C	-0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Formylbenzonitrile	24964645	C1(=CC=CC(=C1)C=O)C#N	-0.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+9H-Fluorene-2-carboxaldehyde	30084903	C12=C(C=CC=C1)CC3C2=CC=C(C=3)C(=O)	1.5	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+O=CC1=CC=C(C=C1)CC	4748781	O=CC1=CC=C(C=C1)CC	0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acetanilide,	122850	C(NC1=CC=C(C=O)C=C1)(C)=O	-0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+benzohydroxamic	495181	C(=O)(c1ccccc1)NO	0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-butynyl	32398699	C(C(CC)O)#CCC	-0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Heptyn-3-ol	32398-69-9	C([C@H](CC)O)#CCC	-0.034	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hexyn-2-ol	109-50-2	C([C@H](C)O)#CCC	0.511	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Butynyl ethyl carbinol	109502	CCC#CC(O)C	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-propynyl	20739597	CCC(O)C#CC	-0.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hexyn-3-ol	20739-59-7	C([C@H](CC)O)#CC	-0.195	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-5-octyn-4-ol	60657-70-7	C([C@@H](C#CCC)O)C(C)C	0.401	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Methyl-5-octyn-4-ol	60657707	CCC#CC(O)CC(C)C	0.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Octyn-3-ol	53723185	CCC(O)CC#CCC	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Octyn-3-ol	53723-18-5	C([C@H](CC)O)C#CCC	-0.376	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CCC(O)C#C	4187864	CCC(O)C#C	-1.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Pentyn-3-ol	4187-86-4	C([C@H](C#C)O)C	-1.178	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-pentynyl	19781818Methyl	CCC#CCC(O)C	-0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Heptyn-2-ol	19781-81-8	C(C#CCC)[C@H](C)O	-0.616	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butanamine, (+-)-	33966-50-6	C([C@H](C)N)C	-0.671	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(¡À)-2-Butanol	15892-23-6	C([C@H](C)O)C	-1.542	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butanamine	33966506	CC(N)CC	-0.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(+/-)-2-Butanol	15892236	CC(CC)O	-1.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Nonyn-3-ol	53723196	CCC(O)CC#CCCC	-0.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Nonyn-3-ol	53723-19-6	C([C@@H](CC)O)C#CCCC	-0.043	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hexyne-3,5-diol	3031661	C(#CC(C)O)C(C)O	-0.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hexyn-2,5-diol	3031-66-1	C(#C[C@H](C)O)[C@@H](C)O	-0.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Hexyn-3-ol	19780-84-8	C([C@@H](CC)O)C#C	-1.404	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hexyn-1-ol	1002284	CCC#CCCO	-1.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propylethinylcarbinol	105317	CCCC(O)C#C	0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Hexyn-3-ol	19780848	C(C(CC)O)C#C	-1.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Hexyn-3-ol	105-31-7	C([C@@H](C#C)O)CC	0.657	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Butanediol	26171835	OCC(O)CC	-2.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,2-Butanediol	26171-83-5	C([C@@H](CO)O)C	-2.048	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-PENTYNE-2-OL	2117115	CC(CC#C)O	-1.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(+/-)-4-Pentyn-2-ol	11/5/2117	C([C@H](C)O)C#C	-1.632	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	542552Formic	C(=O)OCC(C)C	-1.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	110747	C(=O)OCCC	-1.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butylester kyseliny mravenci (Czech)	592847	C(CCC)OC=O	-0.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Isobutyric acid, isobutyl ester	97858	C(C(C)C)(=O)OCC(C)C	-0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+crotonic acid isobutyl ester	589-66-2	C(OCC(C)C)(\C=C\C)=O	-0.344	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	629334Formic	C(CCCC)COC=O	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Formic acid, pentyl ester	638493	C(COC=O)CCC	-0.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propionic acid, isobutyl ester	540421	C(CC)(=O)OCC(C)C	-0.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+butyl formate t-	762754	O=COC(C)(C)C	-1.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+NCI-C60968	78842	C(C)(C)C=O	-0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Di-tert-butylcatechol	1020-31-1	C(C)(C)(C)c1cc(C(C)(C)C)cc(c1O)O	2.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Di-tert-butylphenol	1138529	CC(C)(C)C1=CC(=CC(=C1)O)C(C)(C)C	1.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-di(tert)butyl-4-methylphenol	128370	c1(c(C(C)(C)C)cc(cc1C(C)(C)C)C)O	1.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-(Tert)butyl-2,4-dimethylphenol	1879090	CC1=CC(=C(C(=C1)C(C)(C)C)O)C	1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-tert-butyl-4-methylphenol	2409-55-4	C(C)(C)(C)c1c(O)ccc(c1)C	1.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-(Tert)butylphenol	585342	CC(C)(C)C1=CC(=CC=C1)O	0.74	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-tert-butylphenol	88-18-6	C(C)(C)(C)c1c(O)cccc1	1.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(Tert)butylphenol	98544	CC(C)(C)C1=CC=C(C=C1)O	0.91	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-tert-butyl-2,6-dinitrophenol	4097-49-8	N(=O)(=O)c1c(O)c(N(=O)=O)cc(c1)C(C)(C)C	1.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Gallaldehyde	13677797	O=CC1=CC(O)=C(O)C(=C1)O	-0.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-methyl-	452868	C1=C(C=C(C(=C1)O)O)C	0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-2-isopropyl-5-methylphenol	89-68-9	C(C)(C)c1c(O)cc(c(c1)Cl)C	1.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-methyl-	488175	C1=CC=C(C(=C1O)O)C	0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(Tert)-pentylphenol	80466	CCC(C)(C)C1=CC=C(C=C1)O	1.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4,5-Trimethylphenol	527548	CC1=CC(=CC(=C1C)C)O	0.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Ethylphenol	620177	CCC1=CC(=CC=C1)O	0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Isopropylphenol	618451	CC(C)C1=CC(=CC=C1)O	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Pentylresorcinol	500663	CCCCCC1=CC(=CC(=C1)O)O	1.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-tert-octylphenol	140-66-9	C(CC(C)(C)C)(C)(C)c1ccc(cc1)O	2.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-bromo-2'-hydroxy-5'-	3947588	N(C(CBr)=O)c1cc([N+](=O)[O-])ccc1O	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromo-2'-hydroxy-5'-nitroacetanilide	3947-58-8	N(C(CBr)=O)c1cc(N(=O)=O)ccc1O	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloromethyl-4-nitrophenol	2973195	C1=CC(=C(C=C1[N+](=O)[O-])CCl)O	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitrophenyl	19199827	c1([N+](=O)[O-])ccc(OC(CBr)=O)cc1	1.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-Dinitrophenol (nonneutralized)	51285	C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])O	1.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitro	3316094	O=[N+]([O-])C1=CC(O)=C(O)C=C1	1.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,5-Dinitrophenol	329715	C1=CC(=C(C=C1[N+](=O)[O-])O)[N+](=O)[O-]	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitrophenol	88755	C1=CC=C(C(=C1)[N+](=O)[O-])O	0.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Nitrophenol	554847	C1=CC(=CC(=C1)O)[N+](=O)[O-]	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloro-4-nitrophenol	619089	c1c([N+](=O)[O-])cc(c(c1)O)Cl	1.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Trifluoromethyl-4-nitrophenol	88302	C1=CC(=C(C=C1O)C(F)(F)F)[N+](=O)[O-]	1.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Hydroxy-2-nitrobenzaldehyde	42454068	C1=CC(=C(C=C1O)C=O)[N+](=O)[O-]	0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Nitro-2-hydroxybenzaldehyde	5274704	[O-][N+](C1C(O)=C(C=CC=1)C(=O))=O	0.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-3-nitrobenzaldehyde	3011345	C1=CC(=C(C=C1C=O)[N+](=O)[O-])O	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Hydroxy-4-nitrobenzaldehyde	704132	C1=CC(=C(C=C1C=O)O)[N+](=O)[O-]	0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Methyl-2-nitrophenol	700389	CC1=CC(=C(C=C1)[N+](=O)[O-])O	0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-bromomethyl-4-nitrobenzene	100118	[N+](c1ccc(cc1)CBr)(=O)[O-]	2.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Nitrobenzyl chloride	100141	ClCC1=CC=C([N+](=O)[O-])C=C1	1.18	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4,6-Dinitro-2-methylphenol	534521	CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-]	1.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-methyl-4-nitroaniline	99525	[N+](c1cc(C)c(cc1)N)(=O)[O-]	0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Methyl-2-nitrophenol	119335	CC1=CC(=C(C=C1)O)[N+](=O)[O-]	0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-dinitro-p-cresol	609938	c1(c(c([N+](=O)[O-])cc(c1)C)O)[N+](=O)[O-]	1.23	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,6-Dinitrophenol	573568	C1=CC(=C(C(=C1)[N+](=O)[O-])O)[N+](=O)[O-]	0.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,4-dinitrophenol	577719	c1(c([N+]([O-])=O)ccc(c1)O)[N+]([O-])=O	0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nitroresorcinol	601898	C1=CC(=C(C(=C1)O)[N+](=O)[O-])O	0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-6-nitro-3-cresol	7147899	CC1=CC(=C(C=C1Cl)[N+](=O)[O-])O	1.63	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-methyl-3-nitrophenol	2042140	[N+](c1cc(ccc1C)O)(=O)[O-]	0.74	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+COC(=O)C1=CC=C(C=C1)[N+](=O)[O-]	619501	COC(=O)C1=CC=C(C=C1)[N+](=O)[O-]	0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-(Tert)butyl-2,6-dinitrophenol 	4097498	CC(C)(C)C1=CC(=C(C(=C1)[N+](=O)[O-])O)[N+](=O)[O-]	1.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3'-Nitroacetophenone	121891	CC(=O)C1=CC(=CC=C1)[N+](=O)[O-]	0.32	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Methyl-2-nitrophenol	4920778	CC1=C(C(=CC=C1)O)[N+](=O)[O-]	0.61	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-fluoro-4-nitrophenol	394412	c1cc([N+](=O)[O-])c(cc1O)F	0.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-dinitrophenol	66568	[N+]([O-])(=O)c1c([N+](=O)[O-])cccc1O	0.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Nitrobenzaldehyde	555168	C1=CC(=CC=C1C=O)[N+](=O)[O-]	0.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nitrobenzamide	645090	c1(cc(ccc1)[N+](=O)[O-])C(N)=O	-0.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-dinitrobenzyl	71002608	OCc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1	0.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Nitrophenetole	100298	CCOC1=CC=C(C=C1)[N+](=O)[O-]	0.83	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Nitrophenyl phenyl ether	620882	C1=CC=C(C=C1)OC2=CC=C(C=C2)[N+](=O)[O-]	1.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+COC(=O)C1=CC(=C(C=C1)C(=O)OC)[N+](=O)[O-]	5292455	COC(=O)C1=CC(=C(C=C1)C(=O)OC)[N+](=O)[O-]	0.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-acetamidophenol	103902	C(Nc1ccc(cc1)O)(=O)C	-0.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-nitroanisole	100174	[N+](c1ccc(cc1)OC)(=O)[O-]	0.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Chloro-5-nitrobenzaldehyde	6361213	C1=CC(=C(C=C1[N+](=O)[O-])C=O)Cl	0.53	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-bromo-2-hydroxybenzyl alcohol	2316-64-5	C(O)c1c(O)ccc(c1)Br	0.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-2-methylphenol	1570645	CC1=C(C=CC(=C1)Cl)O	0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Chloro-2-hydroxybenzamide	7120436	C1=CC(=C(C=C1Cl)C(=O)N)O	0.59	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-2-nitrophenol	89-64-5	N(=O)(=O)c1c(O)ccc(c1)Cl	2.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Fluoro-2-nitrophenol	394-33-2	N(=O)(=O)c1c(O)ccc(c1)F	1.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromo-2-nitrophenol	7693-52-9	N(=O)(=O)c1c(O)ccc(c1)Br	1.87	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-hydroxybenzyl alcohol	90-01-7	C(O)c1c(O)cccc1	-0.95	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Fluoro-2-hydroxyacetophenone	394-32-1	C(C)(=O)c1c(O)ccc(c1)F	0.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chlorobenzyl alcohol	873632	C1=CC(=CC(=C1)Cl)CO	0.15	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Fluorobenzyl alcohol	456473	C1=CC(=CC(=C1)F)CO	-0.39	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-chloro-	635938	O=CC1=CC(=CC=C1O)Cl	1.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	1761611	O=CC1=C(O)C=CC(=C1)Br	1.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chlorobenzylamine	104869	C1=CC(=CC=C1CN)Cl	0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chlorobenzyl alcohol	873767	C1=CC(=CC=C1CO)Cl	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-	2138229	C1=CC(=CC(=C1O)O)Cl	1.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-fluoro-2-nitrophenol	446-36-6	N(=O)(=O)c1c(O)cc(cc1)F	1.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromophenol	106412	C1=CC(=CC=C1O)Br	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chlorophenol	106489	C1=CC(=CC=C1O)Cl	0.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Fluorophenol	371415	C1=CC(=CC=C1O)F	0.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Iodophenol	540385	C1=CC(=CC=C1O)I	0.85	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-iodobenzyl	5159411	c1(c(I)cccc1)CO	0.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromo-2,6-dimethylphenol	2374052	CC1=CC(=CC(=C1O)C)Br	1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromobenzyl	18982542	C1=CC=C(C(=C1)CO)Br	0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-3-ethylphenol	14143329	CCC1=C(C=CC(=C1)O)Cl	1.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromo-2-.uoro-6-nitrophenol	320-76-3	N(=O)(=O)c1c(O)c(F)cc(c1)Br	1.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-dichloro-6-nitrophenol	609-89-2	N(=O)(=O)c1c(O)c(Cl)cc(c1)Cl	1.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-amino-4-chlorophenol	95-85-2	Nc1c(O)ccc(c1)Cl	0.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Chloro-3-methylphenol	59507	CC1=C(C=CC(=C1)O)Cl	0.8	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-hydroxybenzyl	620246	c1c(O)cccc1CO	-1.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromo-4-methylphenol	6627550	CC1=CC(=C(C=C1)O)Br	0.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-6-nitro-3-methylphenol	7147-89-9	N(=O)(=O)c1c(O)cc(c(c1)Cl)C	1.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-Dibromo-4-hydroxybenzonitrile	1689845	C1=C(C=C(C(=C1Br)O)Br)C#N	1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentafluorobenzyl alcohol	440608	C(C1=C(C(=C(C(=C1F)F)F)F)F)O	-0.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chlorobenzamide	619567	C(c1ccc(cc1)Cl)(=O)N	0.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-dichlorophenol	576-24-9	Clc1c(Cl)cccc1O	1.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-acetylsalicylamide	40187517	C(=O)(c1c(ccc(c1)C(=O)C)O)N	-0.1	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+COC(=O)C1=C(C=CC(=C1)Cl)Cl	2905693	COC(=O)C1=C(C=CC(=C1)Cl)Cl	0.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+a-chlorocinnamaldehyde	18365429	C(=C(C=O)Cl)c1ccccc1	1.73	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-cinnamaldehyde	14371109	C(=Cc1ccccc1)C=O	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+phenylpropargyl	2579228	C(#CC=O)c1ccccc1	2.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Phenyl allyl sulfone	16212058	C(S(=O)(=O)C1=CC=CC=C1)C=C	0.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,4-Anthraquinone	635-12-1	O=C1c2c(cc3c(c2)cccc3)C(C=C1)=O	2.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethylsulfonylbenzene	599702	C1=CC=CC(=C1)S(CC)(=O)=O	-0.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzyl chloride	100447	C1=CC=C(C=C1)CCl	0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-chloro-3,5-dinitropyridine	2578-45-2	N(=O)(=O)c1cc(N(=O)=O)cnc1Cl	2.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-amino-5-nitropyridine	4214-76-0	N(=O)(=O)c1ccc(nc1)N	0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-chloro-2,4-dinitrobenzene	97-00-7	N(=O)(=O)c1cc(N(=O)=O)ccc1Cl	2.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-iodo-2,4-dinitrobenzene	709-49-9	N(=O)(=O)c1cc(N(=O)=O)ccc1I	2.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-bromo-2,4-dinitrobenzene	584-48-5	N(=O)(=O)c1cc(N(=O)=O)ccc1Br	2.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-fluoro-2,4-dinitrobenzene	70-34-8	N(=O)(=O)c1cc(N(=O)=O)ccc1F	1.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-bromo-1-methyl-5-nitrobenzene	7149-70-4	N(=O)(=O)c1cc(C)c(cc1)Br	1.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,5-difluoro-2,4-dinitrobenzene	327-92-4	N(=O)(=O)c1cc(N(=O)=O)c(cc1F)F	2.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-3,5-dinitrobenzonitrile	1930-72-9	N(=O)(=O)c1c(Cl)c(N(=O)=O)cc(c1)C#N	2.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-chloro-2-nitrobenzene	88-73-3	N(=O)(=O)c1c(Cl)cccc1	0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-bromo-2-nitrobenzene	577-19-5	N(=O)(=O)c1c(Br)cccc1	0.75	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Bromophenyl-3-pyridyl	14548459	C1=CC(=CN=C1)C(=O)C2=CC=C(C=C2)Br	0.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-bromo-4,6-dinitroaniline	1817-73-8	N(=O)(=O)c1cc(N(=O)=O)cc(c1N)Br	1.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-chloro-2,4-dinitroaniline	3531-19-9	N(=O)(=O)c1cc(N(=O)=O)cc(c1N)Cl	1.12	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-dichloro-1-nitrobenzene	611-06-3	N(=O)(=O)c1c(Cl)cc(cc1)Cl	0.99	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-chloro-2-nitrotoluene	89-59-8	N(=O)(=O)c1c(C)ccc(c1)Cl	0.82	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-fluoro-2-nitrotoluene	446-10-6	N(=O)(=O)c1c(C)ccc(c1)F	0.25	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3,5-trichloro-2-nitrobenzene	18708-70-8	N(=O)(=O)c1c(Cl)cc(cc1Cl)Cl	1.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,3,5-trichloro-2,4-dinitrobenzene	6284-83-9	Clc1c(N(=O)=O)c(Cl)cc(c1N(=O)=O)Cl	2.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethyl phenylcyanoacetate	4553075	CCOC(=O)C(C#N)C1=CC=CC=C1	-0.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+a-Methylbenzyl cyanide	1823912	CC(C#N)C1=CC=CC=C1	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzoyl ctanide	613901	C1=CC=C(C=C1)C(=O)C#N	0.31	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl	2216946	C(#Cc1ccccc1)C(=O)OCC	1.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+diethyl	607818	C(C(C(=O)OCC)Cc1ccccc1)(=O)OCC	0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acetophenone	98862	CC(=O)C1=CC=CC=C1	-0.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-benzoylacetone	93914	C(CC(=O)C)(=O)c1ccccc1	0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-cyanoacetophenone	1443-80-7	C(C)(=O)c1ccc(cc1)C#N	-0.37	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CCC(=O)C1=CC=CC=C1	93550	CCC(=O)C1=CC=CC=C1	-0.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyrophenone	495409	CCCC(=O)C1=CC=CC=C1	0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Isopropylbenzaldehyde	122032	CC(C)C1=CC=C(C=C1)C=O	0.67	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Valerophenone	1009149	CCCCC(=O)C1=CC=CC=C1	0.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Heptanophenone	1671756	CCCCCCC(=O)C1=CC=CC=C1	1.56	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Octanophenone	1674379	CCCCCCCC(=O)C1=CC=CC=C1	1.89	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexanophenone	942927	CCCCCC(=O)C1=CC=CC=C1	1.19	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+benzyl	2495354	O(Cc1ccccc1)C(=O)C=C	1.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methacrylate	2495376Benzyl	CC(=C)C(=O)OCC1=CC=CC=C1	0.65	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Vinyl phenyl sulfoxide	20451530	O=S(C=C)C1=CC=CC=C1	0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Benzyl benzoate	120514	C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2	1.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+benzyl	3012371	C(#N)SCc1ccccc1	1.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(Trans)methyl cinnamate	103264	COC(=O)C=CC1=CC=CC=C1	0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Sulfone, phenyl vinyl	5535488	C(S(=O)(=O)C1=CC=CC=C1)=C	1.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+g-phenyl-g-butyrolactone	1008760	O1C(=O)CCC1c1ccccc1	-0.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Allyl	5296640	C=CCSC1=CC=CC=C1	0.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Octanol,	23144527	C(CCCCO)CCCCl	0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Octamethylene bromohydrin	50816198	C(CCCCCCCBr)O	1.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Hexanol, 6-chloro-	2009838	C(CCCO)CCCl	-0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexamethylene bromohydrin	4286559	OCCCCCCBr	0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Butanol,	928518	C(CCCl)CO	-0.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Chlorpropan-1-ol	627305	C(CCO)Cl	-1.4	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Bromopropanol	627189	C(CCO)Br	-0.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Pentanolamine	2508294	C(CCCCN)O	-1.76	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+a,o-Pentanediol	111295	C(CCCCO)O	-1.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,10-Decamethylenediol	112470	C(CCCCCCCCCO)O	0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Hexanol, 6-amino-(8CI9CI)	4048333	C(CCCO)CCN	-0.96	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexane,	629038	C(CCCCCBr)Br	1.05	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1,6-Hexanediol (8CI9CI)	629118	C(CCCCCO)O	-1.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Hydroxy-n-butylamine	13325105	C(CCCN)O	-0.98	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+butanediol,	110634	C(CCCO)O	-2.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-Dibromopropan-1-ol	96139	C(C(CBr)Br)O	-0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Hexyn-1-Ol,	928905	C#CCCCCO	-1.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,3-Dibromo-1-Propanol	96-13-9	C([C@H](CO)Br)Br	-0.486	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Methyl 5-bromopentanoate	5454831	COC(=O)CCCCBr	-0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-hydroxy-1-hexene	821410	C=CCCCCO	-0.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-Pentyl-1-ol	5390045	C#CCCCO	-1.42	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+6-Bromo-n-hexanoic	4224708	C(CCCCC(=O)O)Br	0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Bromovaleric	2067336	OC(CCCCBr)=O	-0.69	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+8-Bromo-n-octanoic	17696116	C(CCCCCCCBr)(=O)O	1.32	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+5-Chloropentanoic acid	1119466	OC(=O)CCCCCl	-0.29	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	13401564	C(C(CO)(C)C)Cl	-0.78	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Bromo-2,2-dimethyl-1-propanol	40894006	C(C(CO)(C)C)Br	-0.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+dichloro-2-propanol,	96231	C(C(CCl)O)Cl	-0.79	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+propargyl methacrylate	13861-22-8	C(C(C)=C)(OCC#C)=O	-0.372	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-propyl methacrylate	2210-28-8	C(C(C)=C)(OCCC)=O	-0.655	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl methacrylate	97-63-2	C(OCC)(C(C)=C)=O	-0.935	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Propynyl	627098	CC(=O)OCC#C	-1.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-ethoxyethyl methacrylate	2370-63-0	C(OCCOCC)(C(C)=C)=O	-0.779	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+isobutyl methacrylate	97-86-9	C(OCC(C)C)(C(C)=C)=O	-0.279	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propionic acid propargyl ester	1932929	C(CC)(=O)OCC#C	-0.66	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+allyl methacrylate	96-05-9	C(C(C)=C)(OCC=C)=O	-0.677	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl methacrylate	80-62-6	C(C(C)=C)(OC)=O	-1.218	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+vinyl methacrylate	4245-37-8	C(OC=C)(C(C)=C)=O	-0.619	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+butyl methacrylate	97-88-1	C(OCCCC)(C(C)=C)=O	-0.269	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acetic acid 2-butynyl eater	34485375	C(#CC)COC(=O)C	-0.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+isopropyl methacrylate	4655-34-9	C(OC(C)C)(C(C)=C)=O	-0.881	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-hexyl methacrylate	142-09-6	O(C(C(C)=C)=O)CCCCCC	1.087	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+	6802751	C(C(C(OCC)=O)=C(C)C)(OCC)=O	-0.07	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-ethylhexyl methacrylate	688-84-6	C([C@@H](CCCC)CC)OC(C(C)=C)=O	1.569	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-2-butynoate	4341-76-8	C(C#CC)(OCC)=O	0.509	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Octenoic	1871676	OC(=O)C=CCCCCC	0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nonenylic	3760110	C(CC=CC(=O)O)CCCC	0.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+E-2-Octenoic acid	1871-67-6	C(\CCCCC)=C\C(=O)O	0.209	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nonenoic acid	3760-11-0	C(CCCCC)\C=C\C(=O)O	0.6	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Hexenoic acid	13419-69-7	C(=C\CCC)\C(=O)O	-0.128	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-HEXENOIC acid, (E)	13419697	OC(=O)C=CCCC	-0.13	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Valerenic acid with HPLC	13991372	CCC=CC(O)=O	-0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-Pentenoic acid	13991-37-2	C(\C(=O)O)=C\CC	-0.277	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Crotonic acid, (E)- (8CI)	107937	C(C)=CC(O)=O	-0.54	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-Crotonic acid	107-93-7	C(\C(=O)O)=C\C	-0.545	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Nonanoic acid	112050	C(CCCCCCC)C(=O)O	0.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexacid C-7	111148	C(CCCCCC)(=O)O	-0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+698	142621	C(CCCCC)(=O)O	-0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Hexacid 1095	334485	C(CCCCCCCC)C(=O)O	0.51	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Kyselina kaprylova, smes izomeru (Czech)	124072	C(CCCCCC)C(=O)O	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-octen-2-one	1669-44-9	C(=C\C(C)=O)\CCCC	0.74	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+NSC 7885	112378	C(CCCCCC)CCCC(=O)O	0.9	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-nonen-2-one	14309-57-0	C(\CCCCC)=C\C(C)=O	0.983	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+valerova	109524	C(CCCC)(=O)O	-0.27	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-3-Hexanoic	1577180	OC(=O)CC=CCC	-0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-3-Hexenoic acid	1577-18-0	C(\C=C\CC)C(=O)O	-0.222	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-2-decen-1-al	3913-81-3	C(CCCCC)C\C=C\C=O	1.851	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-4-Decen-1-al	65405701	C(=O)CCC=CCCCCC	1.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-4-Decen-1-al	65405-70-1	C(\CCCCC)=C\CCC=O	1.208	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butyric acid [butyric acid sodium]	107926	C(CCC)(=O)O	-0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans,trans-2,4-nonadienal	5910-87-2	C(=C\C=C\C=O)\CCCC	1.225	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Octyn-1-oic acid	5663967	CCCCCC#CC(=O)O	-0.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Nonynoic acid (8CI9CI)	1846704	C(CC#CC(=O)O)CCCC	0.71	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-ethylhexanoic acid	149-57-5	C([C@H](C(=O)O)CC)CCC	0.076	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-2-nonenoate	111-79-5	C(\C=C\C(OC)=O)CCCCC	1.039	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl-trans-2-octenoate	7367-81-9	C(=C\C(OC)=O)\CCCCC	0.764	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+WLN: 50V1	628637	C(C)(=O)OCCCCC	0.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+WLN: 80V1	112141	C(C)(=O)OCCCCCCCC	1.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+decyl	112174	CCCCCCCCCCOC(=O)C	1.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Ethylhexanoic-acid	149575	C(C(CCCC)CC)(=O)O	0.08	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	142927	C(CCCCC)OC(C)=O	-0.01	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Cis-7-decen-1-al	21661-97-2	C(C\C=C/CC)CCCC=O	0.949	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acido valproic (Spanish)	99661	CCCC(CCC)C(O)=O	0.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+O=CCCCCCC=CCC	21661972	O=CCCCCCC=CCC	0.95	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Heptylthiol	1639094	CCCCCCCS	1.02	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	584930	C(C(C(=O)O)Br)CC	-0.04	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Bromovaleric acid	584-93-0	C([C@H](C(=O)O)Br)CC	-0.042	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-cyclopenten-1-one	930-30-3	O=C1CCC=C1	0.638	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-penten-2-one	625-33-2	C(\C(C)=O)=C\C	0.538	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-buten-2-one	78-94-4	C(C=C)(C)=O	1.506	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-methyl-3-penten-2-one	141-79-7	C(=C(\C)C)\C(C)=O	-0.644	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+4-hexen-3-one	2497-21-4	C(\C=C\C)(CC)=O	0.93	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+dimethyl-	67641Ketone,	CC(C)=O	-2.2	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Sulfinylbis(methane)	67685	S(=O)(C)C	-2.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C(C)(=O)OCC	141786	C(C)(=O)OCC	-1.3	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-hepten-2-one	1119-44-4	C(=C\CCC)\C(C)=O	0.698	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+crotonaldehyde	123-73-9	C(=C\C)\C=O	0.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propanoic acid, 2-propenyl ester (9CI)	2408200	O(C(CC)=O)CC=C	-0.88	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butanone, 3-methyl-	563804	CC(C(C)C)=O	-1.17	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+TRANS-3-PENTENOATE	20515199METHYL	CC=CCC(OC)=O	-0.28	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propyl ethanoate	109604	C(C)(=O)OCCC	-1.24	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl (E)-3-pentenoate	20515-19-9	C(C\C=C\C)(OC)=O	-0.276	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2,4-hexadienal	142-83-6	C(\C=C\C)=C\C=O	0.754	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-methyl-3-penten-2-one	565-62-8	C(\C(C)=O)(=C\C)C	-0.345	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+2-Butanone, 3,3-dimethyl-	75978	CC(C(C)(C)C)=O	-1.44	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Acetic acid, isopropenyl ester	108225	O(C(=C)C)C(=O)C	-0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+trans-ethyl crotonate	623-70-1	C(\C=C\C)(OCC)=O	-0.765	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Diethyl-gamma-oxopimelate	6317493	C(CCC(OCC)=O)(CCC(OCC)=O)=O	-0.64	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-Oxopimelinsaeurediethylester	40420222	CCOC(=O)C(C)(C)C(=O)CC(=O)OCC	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+tiglic acid ethyl ester	5837-78-5	C(\C(=C\C)C)(OCC)=O	-0.496	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propionic acid, propyl ester	106365	C(CC)(=O)OCCC	-0.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-penten-3-one	1629-58-9	C(CC)(C=C)=O	1.527	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+acid,	123864	C(C)(=O)OCCCC	-0.49	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+methyl crotonate	623-43-8	C(\C=C\C)(OC)=O	-0.918	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl-3,3-dimethyl acrylate	638-10-8	C(\C(OCC)=O)=C(\C)C	-0.484	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+crotonic acid tert-butyl ester	79218-15-8	C(OC(C)(C)C)(\C=C\C)=O	-0.639	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+crotonic acid isopropyl ester	18060-77-0	O(C(\C=C\C)=O)C(C)C	-0.782	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Ethenyl ethanoate	108054	C(C)(=O)OC=C	-0.86	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+N-methyl-	110689	CCCCNC	-0.68	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Propanamine, N-methyl- (9CI)	627350	C(CNC)C	-0.81	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Butylamine, N-	109739	C(CCC)N	-0.57	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+butanol,	71363	C(CCC)O	-1.43	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Hydroxyoctane	111875	C(CCCCCCC)O	0.58	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Decylamine	2016571	NCCCCCCCCCC	2.06	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+C(CCCC)N	110587	C(CCCC)N	-0.48	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Nonylamine	112209	CCCCCCCCCN	1.7	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Undecanol	112425	C(CCCCCO)CCCCC	1.95	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Heptylamine	111682	C(CCCN)CCC	0.21	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(French)	111706	C(CCCCCC)O	0.11	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+decanol,	112301	C(CCCCCCCCC)O	1.34	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+(8CI)	111262	C(CCC)CCN	-0.22	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Nonyl aocohol (8CI)	143088	C(CCCCCCCC)O	0.84	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+hexanol,	111273	C(CCCCC)O	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Amine OD	111864	CCCCCCCCN	0.35	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+CO-1214	112538	C(CCCCCCCCCCC)O	2.16	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+1-Tridecanol	112709	C(CCCCCCO)CCCCCC	2.45	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Monoundecylamine	7307553	CCCCCCCCCCCN	2.33	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Pentyl alcohol (mixed isomers)	71410	C(CCCC)O	-1.03	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-hexyn-2-one	1679-36-3	C(C(C)=O)#CCC	1.319	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3-butyn-2-one	1423-60-5	C(C#C)(C)=O	1.412	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ethyl 2-pentynoate	55314-57-3	C(C#CCC)(OCC)=O	0.825	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+ketone	96220	CCC(CC)=O	-1.46	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Propane,	111477	S(CCC)CCC	0	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+3,5-heptadione	7424546	C(C(CC)=O)C(=O)CC	-0.38	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+Di-n-propyl sulphite	623983	O(S(=O)OCCC)CCC	0.09	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
+n-Butyl	625229	O=S(=O)(OCCCC)OCCCC	0.62	Tetrahymena pyriformis	Chemosphere, 2011, 82(11):1636-1643
