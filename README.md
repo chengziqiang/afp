@@ -9,6 +9,7 @@
 ## Start 
 * run example 
  `$ cd afp`
+
  `$ python attentivefp.py -n "M_CYPPro_I" -s "COC1=CC=C(C=C1)C2=CC(=NC(=N2)N3N=C(C)C=C3C)C(F)F"`
 * -f 可选'train','evaluate','predict', 默认'predict'
 * -n 预测任务名称
