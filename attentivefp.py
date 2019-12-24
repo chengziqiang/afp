@@ -51,10 +51,8 @@ class Attentivefp(object):
         self.learning_rate = 3.5
         self.K = 2
         self.T = 2
-        self.data_df = None
         self.label_class = None
-        self.need_gpu = True
-        self.predict_path = 'best'
+        self.model_path = 'best'
         self.weighted = 'mean'
         self.gpu = False
         try :
@@ -119,17 +117,17 @@ class Attentivefp(object):
         model_list = []
         predict_list = []
         import json
-        with open('{}/{}/lr_weight.json'.format(self.predict_path, self.task_name), 'r') as f:
+        with open('{}/{}/lr_weight.json'.format(self.model_path, self.task_name), 'r') as f:
             weight_dict = json.loads(f.read())
             coef_ = np.array(weight_dict['coef_'])
             intercept_ = np.array(weight_dict['intercept_'])
         for i in range(fold):
-            model_list.append(torch.load('{}/{}/fold_{}.pt'.format(self.predict_path, self.task_name, str(i), )))
+            model_list.append(torch.load('{}/{}/fold_{}.pt'.format(self.model_path, self.task_name, str(i), )))
             predict_list.append([])
         if len(model_list) != 5:
             raise FileNotFoundError('not enough model')
-        eval_loader = DataLoader(graph_dataset(predict_smiles, graph_dict), self.batch_size, collate_fn=null_collate,
-                                 pin_memory=True, shuffle=False, worker_init_fn=np.random.seed(SEED))
+        eval_loader = DataLoader(graph_dataset(predict_smiles, graph_dict), self.batch_size,collate_fn=null_collate,
+                                 shuffle=False, worker_init_fn=np.random.seed(SEED))
         for num, model in enumerate(model_list):
             model.to(self.device)
             model.eval()
@@ -208,6 +206,24 @@ def build_metrics_func(metric_name, need_max=True):
 
 
 if __name__ == '__main__':
+
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-t','--task',type=str,required=True,help="task name")
+    parser.add_argument('-i','--input',type=str,required=True,help="abs path of input")
+    parser.add_argument('-o','--output',type=str,required=True,help="name of output")
+    args = parser.parse_args()
+    task_name = args.task
+    input_path = args.input
+    output_path = args.output
+    with open(input_path) as f:
+        input_list = f.readlines()
+    afp = Attentivefp(task_name)
+    output_list = afp.predict(input_list)
+    with open(output_path+".txt",'w') as f:
+        for line in output_list:
+            f.write(str(line)+'\n')
+
     # import argparse
     #
     # parser = argparse.ArgumentParser()
@@ -225,11 +241,3 @@ if __name__ == '__main__':
     # else:
     #     getattr(afp_model, args.function)([args.smiles])
     from utils import Param
-    file_name = "R_A_WS_I"
-    with open("R_A_WS_I0.txt") as f:
-        input_list = f.readlines()
-    model = Attentivefp(file_name)
-    output_list = model.predict(input_list)
-    with open("output.txt",'w') as f:
-        for line in output_list:
-            f.write(line+'\n')
