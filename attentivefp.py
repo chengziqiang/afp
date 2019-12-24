@@ -240,4 +240,3 @@ if __name__ == '__main__':
     #     getattr(afp_model, args.function)()
     # else:
     #     getattr(afp_model, args.function)([args.smiles])
-    from utils import Param
