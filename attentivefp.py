@@ -42,7 +42,7 @@ torch.backends.cudnn.deterministic = True
 
 
 class Attentivefp(object):
-    def __init__(self, filename, **kwargs):
+    def __init__(self, filename, task_conf,**kwargs):
         self.batch_size = 50
         self.epochs = 200
         self.p_dropout = 0.2
@@ -55,18 +55,13 @@ class Attentivefp(object):
         self.model_path = 'best'
         self.weighted = 'mean'
         self.gpu = False
-        try :
-            with open("param_conf.json",'r') as f:
-                param_conf = json.load(f)
-        except:
-            raise EnvironmentError("loading json file config failed!")
 
         try:
-            self.type = param_conf[filename]['type']
-            self.label_class = param_conf[filename]['label_class']
+            self.type = task_conf['type']
+            self.label_class = task_conf['label_class']
             self.task_name = filename
         except:
-            raise KeyError("not supported task name")
+            raise KeyError("read {} task conf error".format(filename))
 
         for key, value in kwargs.items():
             if hasattr(self, key):
@@ -110,6 +105,11 @@ class Attentivefp(object):
 
 
     def predict(self, predict_smiles):
+        '''
+
+        :param predict_smiles: a list of predict smiles
+        :return:
+        '''
         del_smiles = Attentivefp.pre_data(predict_smiles)
         predict_smiles = [smiles for smiles in predict_smiles if smiles not in del_smiles]
         graph_dict = graph(predict_smiles)
@@ -148,18 +148,21 @@ class Attentivefp(object):
             else:
                 predict_result = predict_weighted
             # predict_result = dict(zip(predict_smiles, predict_result))
+            predict_result = {"Value":round(float(predict_result),4),"Unit":self.label_class}
         else:
             predict_list = softmax(predict_list, dim=2)
             predict_mean = np.array(predict_list).sum(axis=0) / fold
             predict_weighted = np.dot(predict_list[:, :, 1].transpose(), coef_.transpose()) + intercept_
             predict_weighted = 1 / (np.exp(-predict_weighted) + 1)
             predict_weighted = np.concatenate((1 - predict_weighted, predict_weighted), axis=1)
+            predict_mean = softmax(predict_mean,dim=1)
             if self.weighted == "mean":
-                predict_result = predict_mean
+                predict_result = predict_mean.squeeze()
             else:
-                predict_result = predict_weighted
+                predict_result = predict_weighted.squeeze()
             # predict_result = dict(zip(predict_smiles,[self.label_class[i] for i in np.argmax(predict_result)]))
-
+            result_index = np.argmax(predict_result)
+            predict_result = {"Result":self.label_class[result_index],"Probability":predict_result[result_index]}
         return predict_result
 
     def evaluate(self, target, pred):
@@ -209,34 +212,24 @@ if __name__ == '__main__':
 
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('-t','--task',type=str,required=True,help="task name")
+    # parser.add_argument('-t','--task',type=str,required=True,help="task name")
     parser.add_argument('-i','--input',type=str,required=True,help="abs path of input")
     parser.add_argument('-o','--output',type=str,required=True,help="name of output")
     args = parser.parse_args()
-    task_name = args.task
     input_path = args.input
     output_path = args.output
+    with open("param_conf.json") as f:
+        param_conf = json.load(f)
     with open(input_path) as f:
-        input_list = f.readlines()
-    afp = Attentivefp(task_name)
-    output_list = afp.predict(input_list)
-    with open(output_path+".txt",'w') as f:
-        for line in output_list:
-            f.write(str(line)+'\n')
+        input_lines = [line.strip() for line in f.readlines()]
+    import collections
+    output_lines = collections.OrderedDict()
+    for input_line in input_lines:
+        output_line = collections.OrderedDict()
+        for task_name in param_conf.keys():
+            afp = Attentivefp(task_name,param_conf[task_name])
+            output_line.update({param_conf[task_name]["name"]:afp.predict([input_line])})
+        output_lines.update({input_line:output_line})
 
-    # import argparse
-    #
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument('-f', '--function', type=str, choices=['train', 'evaluate', 'predict'], required=False,
-    #                     default='predict')
-    # parser.add_argument('-n', '--name', type=str, required=True, help="task name")
-    # parser.add_argument('-g', '--gpu', type=str, choices=['gpu', 'cpu'], required=False, default='cpu')
-    # parser.add_argument('-w', '--weighted', type=str, choices=['mean', 'weighted'], required=False, default='mean')
-    # parser.add_argument('-s', '--smiles', type=str, required=False, default="None")
-    # args = parser.parse_args()
-    #
-    # afp_model = Attentivefp(args.name, weighted=args.weighted, gpu=args.gpu)
-    # if args.smiles == "None":
-    #     getattr(afp_model, args.function)()
-    # else:
-    #     getattr(afp_model, args.function)([args.smiles])
+    with open(output_path,'w') as f:
+        json.dump(output_lines,f,indent=4)

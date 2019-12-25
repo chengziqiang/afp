@@ -1,1 +1,214 @@
-{"R_A_WS_I": {"type": "regression", "label_class": null}, "T_Carc_I": {"type": "classification", "label_class": ["carcinogens", "non_carcinogens"]}, "A_PgpI_I": {"type": "classification", "label_class": ["Pgp_Inhibitor", "Pgp_nonInhibitor"]}, "R_T_TPT_I": {"type": "regression", "label_class": null}, "M_CYP1A2I_I": {"type": "classification", "label_class": ["0", "1"]}, "M_CYP3A4I_I": {"type": "classification", "label_class": ["0", "1"]}, "T_AMES_I": {"type": "classification", "label_class": ["0", "1"]}, "M_CYP2C9I_I": {"type": "classification", "label_class": ["0", "1"]}, "A_PgpS_I": {"type": "classification", "label_class": ["substrate", "non_substrate"]}, "M_BIO_I": {"type": "classification", "label_class": ["0", "1"]}, "M_CYP2D6S_I": {"type": "classification", "label_class": ["substrate", "non_substrate"]}, "M_CYP2D6I_I": {"type": "classification", "label_class": ["0", "1"]}, "M_CYP2C19I_I": {"type": "classification", "label_class": ["0", "1"]}, "T_hERG_II": {"type": "classification", "label_class": ["0", "1"]}, "A_BBB_I": {"type": "classification", "label_class": ["BBB+", "BBB-"]}, "T_HBT_I": {"type": "classification", "label_class": ["lowAT", "highAT"]}, "T_hERG_I": {"type": "classification", "label_class": ["0", "1"]}, "M_CYPPro_I": {"type": "classification", "label_class": ["0", "1"]}, "R_A_Caco2_I": {"type": "regression", "label_class": null}, "T_FHMT_I": {"type": "classification", "label_class": ["0", "1"]}, "R_T_FHMT_I": {"type": "regression", "label_class": null}, "A_Caco2_I": {"type": "classification", "label_class": ["1", "-1"]}, "A_PgpI_II": {"type": "classification", "label_class": ["Pgp_Inhibitor", "Pgp_nonInhibitor"]}, "A_HIA_I": {"type": "classification", "label_class": ["HIA+", "HIA-"]}, "E_OCT2I_I": {"type": "classification", "label_class": ["Y", "N"]}, "M_CYP2C9S_I": {"type": "classification", "label_class": ["substrate", "non-substrate"]}, "T_TPT_I": {"type": "classification", "label_class": ["non-TPT", "TPT"]}, "M_CYP3A4S_I": {"type": "classification", "label_class": ["substrate", "non_substrate"]}}
+{
+    "R_A_Caco2_I": {
+        "name": "Caco-2 Permeability",
+        "type": "regression",
+        "label_class": "LogPapp, cm/s"
+    },
+    "R_A_WS_I": {
+        "name": "Aqueous solubility",
+        "type": "regression",
+        "label_class": "LogS"
+    },
+    "R_T_FHMT_I": {
+        "name": "Fish Toxicity",
+        "type": "regression",
+        "label_class": "pLC50, mg/L"
+    },
+    "R_T_TPT_I": {
+        "name": "Tetrahymena Pyriformis Toxicity",
+        "type": "regression",
+        "label_class": "pIGC50, ug/L"
+    },
+    "A_BBB_I": {
+        "name": "Blood-Brain Barrier",
+        "type": "classification",
+        "label_class": [
+            "BBB+",
+            "BBB-"
+        ]
+    },
+    "A_Caco2_I": {
+        "name": "Caco-2 Permeability II",
+        "type": "classification",
+        "label_class": [
+            "Caco2+",
+            "Caco2-"
+        ]
+    },
+    "A_HIA_I": {
+        "name": "Human Intestinal Absorption",
+        "type": "classification",
+        "label_class": [
+            "HIA-",
+            "HIA+"
+        ]
+    },
+    "A_PgpI_I": {
+        "name": "P-glycoprotein Inhibitor I",
+        "type": "classification",
+        "label_class": [
+            "Pgp_nonInhibitor",
+            "Pgp_Inhibitor"
+        ]
+    },
+    "A_PgpI_II": {
+        "name": "P-glycoprotein Inhibitor II",
+        "type": "classification",
+        "label_class": [
+            "Pgp_nonInhibitor",
+            "Pgp_Inhibitor"
+        ]
+    },
+    "A_PgpS_I": {
+        "name": "P-glycoprotein Substrate",
+        "type": "classification",
+        "label_class": [
+            "substrate",
+            "non_substrate"
+        ]
+    },
+    "E_OCT2I_I": {
+        "name": "Renal Organic Cation Transporter",
+        "type": "classification",
+        "label_class": [
+            "inhibitor",
+            "Non-inhibitor"
+        ]
+    },
+    "M_BIO_I": {
+        "name": "Biodegradation",
+        "type": "classification",
+        "label_class": [
+            "Not ready biodegradable",
+            "Ready biodegradable"
+        ]
+    },
+    "M_CYP1A2I_I": {
+        "name": "CYP450 1A2 Inhibitor",
+        "type": "classification",
+        "label_class": [
+            "Non_Inhibitor",
+            "Inhibitor"
+        ]
+    },
+    "M_CYP2C19I_I": {
+        "name": "CYP450 2C19 Inhibitor",
+        "type": "classification",
+        "label_class": [
+            "Non_Inhibitor",
+            "Inhibitor"
+        ]
+    },
+    "M_CYP2C9I_I": {
+        "name": "CYP450 2C9 Inhibitor",
+        "type": "classification",
+        "label_class": [
+            "Non_Inhibitor",
+            "Inhibitor"
+        ]
+    },
+    "M_CYP2C9S_I": {
+        "name": "CYP450 2C9 Substrate",
+        "type": "classification",
+        "label_class": [
+            "substrate",
+            "non-substrate"
+        ]
+    },
+    "M_CYP2D6I_I": {
+        "name": "CYP450 2D6 Inhibitor",
+        "type": "classification",
+        "label_class": [
+            "Non_Inhibitor",
+            "Inhibitor"
+        ]
+    },
+    "M_CYP2D6S_I": {
+        "name": "CYP450 2D6 Substrate",
+        "type": "classification",
+        "label_class": [
+            "substrate",
+            "non_substrate"
+        ]
+    },
+    "M_CYP3A4I_I": {
+        "name": "CYP450 3A4 Inhibitor",
+        "type": "classification",
+        "label_class": [
+            "Non_Inhibitor",
+            "Inhibitor"
+        ]
+    },
+    "M_CYP3A4S_I": {
+        "name": "CYP450 3A4 Substrate",
+        "type": "classification",
+        "label_class": [
+            "substrate",
+            "non_substrate"
+        ]
+    },
+    "M_CYPPro_I": {
+        "name": "CYP Inhibitory Promiscuity",
+        "type": "classification",
+        "label_class": [
+            "Low CYP Inhibitory Promiscuity",
+            "High CYP Inhibitory Promiscuity"
+        ]
+    },
+    "T_AMES_I": {
+        "name": "AMES Toxicity",
+        "type": "classification",
+        "label_class": [
+            "Non AMES toxic",
+            "AMES toxic"
+        ]
+    },
+    "T_Carc_I": {
+        "name": "Carcinogens",
+        "type": "classification",
+        "label_class": [
+            "non_carcinogens",
+            "carcinogens"
+        ]
+    },
+    "T_FHMT_I": {
+        "name": "Fish Toxicity II",
+        "type": "classification",
+        "label_class": [
+            "Low FHMT",
+            "High FHMT"
+        ]
+    },
+    "T_HBT_I": {
+        "name": "Honey Bee Toxicity",
+        "type": "classification",
+        "label_class": [
+            "highAT",
+            "lowAT"
+        ]
+    },
+    "T_hERG_I": {
+        "name": "Human Ether-a-go-go-Related Gene Inhibition I",
+        "type": "classification",
+        "label_class": [
+            "Weak inhibitor",
+            "strong inhibitor"
+        ]
+    },
+    "T_hERG_II": {
+        "name": "Human Ether-a-go-go-Related Gene Inhibition II",
+        "type": "classification",
+        "label_class": [
+            "Weak inhibitor",
+            "strong inhibitor"
+        ]
+    },
+    "T_TPT_I": {
+        "name": "Tetrahymena Pyriformis Toxicity II",
+        "type": "classification",
+        "label_class": [
+            "non-TPT",
+            "TPT"
+        ]
+    }
+}
