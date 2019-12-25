@@ -9,9 +9,8 @@
 run example: 
  ```ini
  $ cd afp 
- $ python attentivefp.py -t "R_A_WS_I" -i "input.txt" -o "output"
+ $ python attentivefp.py -i "input.txt" -o "output.json"
  ```
-* -t 预测任务名
 * -i smiles文本文件的路径
 * -o 输出的文件路径
 
