@@ -104,15 +104,15 @@ class Attentivefp(object):
         return del_smiles_list
 
 
-    def predict(self, predict_smiles):
+    def predict(self, predict_smiles, graph_dict=None):
         '''
 
         :param predict_smiles: a list of predict smiles
         :return:
         '''
-        del_smiles = Attentivefp.pre_data(predict_smiles)
-        predict_smiles = [smiles for smiles in predict_smiles if smiles not in del_smiles]
-        graph_dict = graph(predict_smiles)
+
+        if graph_dict is None:
+            graph_dict = graph(predict_smiles)
         fold = 5
         model_list = []
         predict_list = []
@@ -226,9 +226,12 @@ if __name__ == '__main__':
     output_lines = collections.OrderedDict()
     for input_line in input_lines:
         output_line = collections.OrderedDict()
+        del_smiles = Attentivefp.pre_data([input_line])
+        input_smiles = [smiles for smiles in [input_line] if smiles not in del_smiles]
+        graph_smiles = graph(input_smiles)
         for task_name in param_conf.keys():
             afp = Attentivefp(task_name,param_conf[task_name])
-            output_line.update({param_conf[task_name]["name"]:afp.predict([input_line])})
+            output_line.update({param_conf[task_name]["name"]:afp.predict(input_smiles,graph_smiles)})
         output_lines.update({input_line:output_line})
 
     with open(output_path,'w') as f:
