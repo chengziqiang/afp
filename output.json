@@ -1,0 +1,230 @@
+{
+    "Brc1cccc2ccccc12": {
+        "Caco-2 Permeability": {
+            "Value": 1.819,
+            "Unit": "LogPapp, cm/s"
+        },
+        "Aqueous solubility": {
+            "Value": -4.0346,
+            "Unit": "LogS"
+        },
+        "Fish Toxicity": {
+            "Value": 0.3213,
+            "Unit": "pLC50, mg/L"
+        },
+        "Tetrahymena Pyriformis Toxicity": {
+            "Value": 0.8843,
+            "Unit": "pIGC50, ug/L"
+        },
+        "Blood-Brain Barrier": {
+            "Result": "BBB+",
+            "Probability": 0.7309901963507291
+        },
+        "Caco-2 Permeability II": {
+            "Result": "Caco2+",
+            "Probability": 0.7109397826457027
+        },
+        "Human Intestinal Absorption": {
+            "Result": "HIA+",
+            "Probability": 0.7310215351925
+        },
+        "P-glycoprotein Inhibitor I": {
+            "Result": "Pgp_nonInhibitor",
+            "Probability": 0.6675113441116423
+        },
+        "P-glycoprotein Inhibitor II": {
+            "Result": "Pgp_Inhibitor",
+            "Probability": 0.7281265996788026
+        },
+        "P-glycoprotein Substrate": {
+            "Result": "non_substrate",
+            "Probability": 0.55825330587815
+        },
+        "Renal Organic Cation Transporter": {
+            "Result": "inhibitor",
+            "Probability": 0.6059796273249659
+        },
+        "Biodegradation": {
+            "Result": "Not ready biodegradable",
+            "Probability": 0.6916653424042328
+        },
+        "CYP450 1A2 Inhibitor": {
+            "Result": "Inhibitor",
+            "Probability": 0.7209643279305704
+        },
+        "CYP450 2C19 Inhibitor": {
+            "Result": "Inhibitor",
+            "Probability": 0.6381733864732367
+        },
+        "CYP450 2C9 Inhibitor": {
+            "Result": "Non_Inhibitor",
+            "Probability": 0.6402436340303881
+        },
+        "CYP450 2C9 Substrate": {
+            "Result": "non-substrate",
+            "Probability": 0.5697287070269712
+        },
+        "CYP450 2D6 Inhibitor": {
+            "Result": "Non_Inhibitor",
+            "Probability": 0.6388200874926582
+        },
+        "CYP450 2D6 Substrate": {
+            "Result": "substrate",
+            "Probability": 0.5175401808051927
+        },
+        "CYP450 3A4 Inhibitor": {
+            "Result": "Non_Inhibitor",
+            "Probability": 0.7121367648157845
+        },
+        "CYP450 3A4 Substrate": {
+            "Result": "non_substrate",
+            "Probability": 0.5052749030800414
+        },
+        "CYP Inhibitory Promiscuity": {
+            "Result": "High CYP Inhibitory Promiscuity",
+            "Probability": 0.5103874861997443
+        },
+        "AMES Toxicity": {
+            "Result": "Non AMES toxic",
+            "Probability": 0.6055495773509937
+        },
+        "Carcinogens": {
+            "Result": "non_carcinogens",
+            "Probability": 0.7073745951134163
+        },
+        "Fish Toxicity II": {
+            "Result": "High FHMT",
+            "Probability": 0.7310276757781735
+        },
+        "Honey Bee Toxicity": {
+            "Result": "lowAT",
+            "Probability": 0.520011952379115
+        },
+        "Human Ether-a-go-go-Related Gene Inhibition I": {
+            "Result": "Weak inhibitor",
+            "Probability": 0.7121584953918705
+        },
+        "Human Ether-a-go-go-Related Gene Inhibition II": {
+            "Result": "Weak inhibitor",
+            "Probability": 0.6616164532778307
+        },
+        "Tetrahymena Pyriformis Toxicity II": {
+            "Result": "non-TPT",
+            "Probability": 0.731056652912945
+        }
+    },
+    "Oc1c(Br)cc(cc1Br)C#N": {
+        "Caco-2 Permeability": {
+            "Value": 1.5437,
+            "Unit": "LogPapp, cm/s"
+        },
+        "Aqueous solubility": {
+            "Value": -3.4623,
+            "Unit": "LogS"
+        },
+        "Fish Toxicity": {
+            "Value": 1.116,
+            "Unit": "pLC50, mg/L"
+        },
+        "Tetrahymena Pyriformis Toxicity": {
+            "Value": 1.1395,
+            "Unit": "pIGC50, ug/L"
+        },
+        "Blood-Brain Barrier": {
+            "Result": "BBB+",
+            "Probability": 0.6827759234262791
+        },
+        "Caco-2 Permeability II": {
+            "Result": "Caco2+",
+            "Probability": 0.6892198528164101
+        },
+        "Human Intestinal Absorption": {
+            "Result": "HIA+",
+            "Probability": 0.7309490471759172
+        },
+        "P-glycoprotein Inhibitor I": {
+            "Result": "Pgp_nonInhibitor",
+            "Probability": 0.7147150834181863
+        },
+        "P-glycoprotein Inhibitor II": {
+            "Result": "Pgp_Inhibitor",
+            "Probability": 0.7272221804241402
+        },
+        "P-glycoprotein Substrate": {
+            "Result": "non_substrate",
+            "Probability": 0.7212865327802545
+        },
+        "Renal Organic Cation Transporter": {
+            "Result": "inhibitor",
+            "Probability": 0.6569036357556234
+        },
+        "Biodegradation": {
+            "Result": "Not ready biodegradable",
+            "Probability": 0.698635422714604
+        },
+        "CYP450 1A2 Inhibitor": {
+            "Result": "Inhibitor",
+            "Probability": 0.6999773198418534
+        },
+        "CYP450 2C19 Inhibitor": {
+            "Result": "Inhibitor",
+            "Probability": 0.544248362381084
+        },
+        "CYP450 2C9 Inhibitor": {
+            "Result": "Non_Inhibitor",
+            "Probability": 0.5862705492683722
+        },
+        "CYP450 2C9 Substrate": {
+            "Result": "non-substrate",
+            "Probability": 0.5733273974523527
+        },
+        "CYP450 2D6 Inhibitor": {
+            "Result": "Non_Inhibitor",
+            "Probability": 0.6894906951091387
+        },
+        "CYP450 2D6 Substrate": {
+            "Result": "substrate",
+            "Probability": 0.5703922890937768
+        },
+        "CYP450 3A4 Inhibitor": {
+            "Result": "Non_Inhibitor",
+            "Probability": 0.5746016296457526
+        },
+        "CYP450 3A4 Substrate": {
+            "Result": "non_substrate",
+            "Probability": 0.5069595365274439
+        },
+        "CYP Inhibitory Promiscuity": {
+            "Result": "High CYP Inhibitory Promiscuity",
+            "Probability": 0.5782848296093397
+        },
+        "AMES Toxicity": {
+            "Result": "Non AMES toxic",
+            "Probability": 0.707850308898972
+        },
+        "Carcinogens": {
+            "Result": "non_carcinogens",
+            "Probability": 0.7018612172171969
+        },
+        "Fish Toxicity II": {
+            "Result": "High FHMT",
+            "Probability": 0.7294535048174213
+        },
+        "Honey Bee Toxicity": {
+            "Result": "lowAT",
+            "Probability": 0.5323681939055253
+        },
+        "Human Ether-a-go-go-Related Gene Inhibition I": {
+            "Result": "Weak inhibitor",
+            "Probability": 0.7122593064647589
+        },
+        "Human Ether-a-go-go-Related Gene Inhibition II": {
+            "Result": "Weak inhibitor",
+            "Probability": 0.6879063138488674
+        },
+        "Tetrahymena Pyriformis Toxicity II": {
+            "Result": "non-TPT",
+            "Probability": 0.7309730432922251
+        }
+    }
+}
