@@ -1,0 +1,5 @@
+{
+"input": "input.txt",
+"output": "output1.json",
+"task": ["T_FHMT_I","T_HBT_I"]
+}
