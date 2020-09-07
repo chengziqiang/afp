@@ -212,26 +212,39 @@ if __name__ == '__main__':
 
     import argparse
     parser = argparse.ArgumentParser()
-    # parser.add_argument('-t','--task',type=str,required=True,help="task name")
+    parser.add_argument('-t','--task',type=str,required=False,help="task name")
     parser.add_argument('-i','--input',type=str,required=True,help="abs path of input")
     parser.add_argument('-o','--output',type=str,required=True,help="name of output")
     args = parser.parse_args()
     input_path = args.input
     output_path = args.output
+    # task_name = args.task
     with open("param_conf.json") as f:
         param_conf = json.load(f)
+    if args.task is None:
+        task_list = list(param_conf.keys())
+    else:
+        if args.task not in param_conf.keys():
+            raise ValueError(f"{args.task} is unsupported task type")
+        task_list = [args.task]
+
     with open(input_path) as f:
         input_lines = [line.strip() for line in f.readlines()]
+    del_smiles = Attentivefp.pre_data(input_lines)
+    if del_smiles:
+        with open("log.txt",'w') as f:
+            f.write(f"can not processed these smiles: {','.join(del_smiles)}")
+        input_lines = [s for s in input_lines if s not in del_smiles]
+
     import collections
     output_lines = collections.OrderedDict()
+    graph_smiles = graph(input_lines)
+
     for input_line in input_lines:
         output_line = collections.OrderedDict()
-        del_smiles = Attentivefp.pre_data([input_line])
-        input_smiles = [smiles for smiles in [input_line] if smiles not in del_smiles]
-        graph_smiles = graph(input_smiles)
-        for task_name in param_conf.keys():
+        for task_name in task_list:
             afp = Attentivefp(task_name,param_conf[task_name])
-            output_line.update({param_conf[task_name]["name"]:afp.predict(input_smiles,graph_smiles)})
+            output_line.update({param_conf[task_name]["name"]:afp.predict([input_line],graph_smiles)})
         output_lines.update({input_line:output_line})
 
     with open(output_path,'w') as f:
