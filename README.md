@@ -9,8 +9,9 @@
 run example: 
  ```ini
  $ cd afp 
- $ python attentivefp.py -i "input.txt" -o "output.json"
+ $ python attentivefp.py -i input.txt -o output.json -t T_hERG_II
  ```
-* -i smiles文本文件的路径
-* -o 输出的文件路径
+* -i smiles input path
+* -o output path
+* -t task name (default: run all task)
 
