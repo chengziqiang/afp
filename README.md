@@ -15,3 +15,9 @@ run example:
 * -o output path
 * -t task name (default: run all task)
 
+or
+```
+$ python attentivefp.py -p param.json
+```
+* -p a json file provided runtime param, if provided, all above parameters will be invalid 
+

@@ -212,21 +212,31 @@ if __name__ == '__main__':
 
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('-t','--task',type=str,required=False,help="task name")
-    parser.add_argument('-i','--input',type=str,required=True,help="abs path of input")
-    parser.add_argument('-o','--output',type=str,required=True,help="name of output")
+    parser.add_argument('-p','--param',type=str,required=False)
+    parser.add_argument('-t','--task',type=str,required=False,help="task name",default='all')
+    parser.add_argument('-i','--input',type=str,required=False,help="abs path of input")
+    parser.add_argument('-o','--output',type=str,required=False,help="name of output")
     args = parser.parse_args()
-    input_path = args.input
-    output_path = args.output
-    # task_name = args.task
+    if args.param:
+        with open(args.param) as f:
+            param = json.load(f)
+        input_path = param['input']
+        output_path = param['output']
+        task = param['task']
+    else:
+        input_path = args.input
+        output_path = args.output
+        task = [args.task]
     with open("param_conf.json") as f:
         param_conf = json.load(f)
-    if args.task is None:
+
+    if task == ["all"]:
         task_list = list(param_conf.keys())
     else:
-        if args.task not in param_conf.keys():
-            raise ValueError(f"{args.task} is unsupported task type")
-        task_list = [args.task]
+        task_list = [i for i in task if i not in param_conf.keys()]
+        if task_list:
+            raise ValueError(f"{','.join(task_list)} is unsupported task type")
+        task_list = task
 
     with open(input_path) as f:
         input_lines = [line.strip() for line in f.readlines()]
